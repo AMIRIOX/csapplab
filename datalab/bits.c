@@ -228,7 +228,13 @@ int conditional(int x, int y, int z) {
  *   Max ops: 24
  *   Rating: 3
  */
-int isLessOrEqual(int x, int y) { return 2; }
+int isLessOrEqual(int x, int y) {
+    int signx = !!(x & (1 << 31));
+    int signy = !!(y & (1 << 31));
+    int diff = (signx ^ signy);
+    int d = x + ~y + 1;
+    return (diff & (signx & !signy)) | (~diff & (!!(d & (1 << 31)) | !d));
+}
 // 4
 /*
  * logicalNeg - implement the ! operator, using all of
@@ -238,7 +244,11 @@ int isLessOrEqual(int x, int y) { return 2; }
  *   Max ops: 12
  *   Rating: 4
  */
-int logicalNeg(int x) { return 2; }
+int logicalNeg(int x) {
+    int lowbit = x & (~x + 1); // 0 if x = 0; 001000 if x = 001***
+    int xp = ((lowbit + ~0) >> 31) + 1;
+    return ~xp + 1 + 1;
+}
 /* howManyBits - return the minimum number of bits required to represent x in
  *             two's complement
  *  Examples: howManyBits(12) = 5

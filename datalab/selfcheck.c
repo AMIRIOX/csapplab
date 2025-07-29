@@ -1,6 +1,9 @@
+#if 0
+Warning: These are incorrect ways of thinking!
+For a solution, see bits.c
+#endif
+
 #include <stdio.h>
-
-
 
 int isTmax(int x) { return !((~x + ~0) ^ x) & !!(x ^ ~0); }
 
@@ -34,10 +37,22 @@ int conditional(int x, int y, int z) {
     return (y & xp) | (z & ~xp);
 }
 
+int logicalNeg(int x) {
+    int lowbit = x & (~x + 1); // 0 if x = 0; 001000 if x = 001***
+    return ((lowbit + ~0) >> 31) + 1;
+}
+
+int isLessOrEqual(int x, int y) {
+    // +overflow?
+    int d = x + ~y + 1;
+    return !!(d & (1 << 31)) | !d;
+}
+
+
 signed main() {
     int a, b, c;
-    while (scanf("%d %d %d", &a, &b, &c) == 3) {
-        printf("%d\n", conditional(a, b, c));
+    while (scanf("%d %d", &a, &b) == 2) {
+        printf("%d\n", isLessOrEqual(a, b));
     }
     return 0;
 }
