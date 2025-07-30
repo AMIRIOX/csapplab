@@ -1,7 +1,7 @@
 /*
  * CS:APP Data Lab
  *
- * <Please put your name and userid here>
+ * <amiriox>
  *
  * bits.c - Source file with your solutions to the Lab.
  *          This is the file you will hand in to your instructor.
@@ -258,10 +258,61 @@ int logicalNeg(int x) {
  *            howManyBits(-1) = 1
  *            howManyBits(0x80000000) = 32
  *  Legal ops: ! ~ & ^ | + << >>
- *  Max ops: 90
+ *  Max ops: 90 (?)
  *  Rating: 4
  */
-int howManyBits(int x) { return 0; }
+// (log2(highbit(x)) + 1) + 1
+// 1 for x == 0 or x == -1  (rule invalid)
+// 2 for x == 1             (rule ok)
+int howManyBits(int x) {
+    // The prohibition of using large constants is
+    // the most disgusting thing about this disgusting lab.
+    // It forced me to abandon the more elegant masking method
+    // and use binary division like enumeration.
+
+    /* shit, i almost forgot macros are also banned.
+#ifdef ENABLE_LARGE_CONSTANTS
+    // int lowbit = x & (~x + 1);
+    // replace lowbit with highbit
+    x |= x >> 1;
+    x |= x >> 2;
+    x |= x >> 4;
+    x |= x >> 8;
+    x |= x >> 16;
+    x = (x + 1) >> 1;
+    int r = 0;
+    r |= !!(x & 0xAAAAAAAA) << 0; // r odd; 1010
+    r |= !!(x & 0xCCCCCCCC) << 1; // r = 2/3, 6/7, 10/11; 1100
+    r |= !!(x & 0xF0F0F0F0) << 2; // r = 4/5/6/7; 1111_0000
+    r |= !!(x & 0xFF00FF00) << 3; // r = 8~15; 1111_1111_0000_0000
+    r |= !!(x & 0xFFFF0000) << 4; // pattern
+    return r + (!!(x ^ 0) & !!(x ^ ~0));
+#endif
+    */
+    int sign = x >> 31;
+    int y = x ^ sign;
+    int r = 0;
+    int shift2 = 0, shift4 = 0, shift8 = 0;
+
+    r += !!(y >> 16) << 4;
+    y >>= r;
+
+    shift8 = !!(y >> 8) << 3;
+    r += shift8;
+    y >>= shift8;
+
+    shift4 = !!(y >> 4) << 2;
+    r += shift4;
+    y >>= shift4;
+
+    shift2 = !!(y >> 2) << 1;
+    r += shift2;
+    y >>= shift2;
+
+    r += (y >> 1) + 1;
+
+    return r + (!!(x ^ 0) & !!(x ^ ~0));
+}
 // float
 /*
  * floatScale2 - Return bit-level equivalent of expression 2*f for

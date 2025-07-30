@@ -48,11 +48,21 @@ int isLessOrEqual(int x, int y) {
     return !!(d & (1 << 31)) | !d;
 }
 
+int howManyBits(int x) {
+    int lowbit = x & (~x + 1);
+    int r = 0;
+    r |= (lowbit & 0xAAAAAAAA) << 0; // r odd; 1010
+    r |= (lowbit & 0xCCCCCCCC) << 1; // r = 2/3, 6/7, 10/11; 1100
+    r |= (lowbit & 0xF0F0F0F0) << 2; // r = 4/5/6/7; 1111_0000
+    r |= (lowbit & 0xFF00FF00) << 3; // r = 8~15; 1111_1111_0000_0000
+    r |= (lowbit & 0xFFFF0000) << 4; // 找规律
+    return r + (!!(x ^ 0) & !!(x ^ ~0));
+}
 
 signed main() {
     int a, b, c;
-    while (scanf("%d %d", &a, &b) == 2) {
-        printf("%d\n", isLessOrEqual(a, b));
+    while (scanf("%d", &a) == 1) {
+        printf("%d\n", howManyBits(a));
     }
     return 0;
 }
