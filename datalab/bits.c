@@ -325,7 +325,25 @@ int howManyBits(int x) {
  *   Max ops: 30
  *   Rating: 4
  */
-unsigned floatScale2(unsigned uf) { return 2; }
+unsigned floatScale2(unsigned uf) {
+    //   1 | 8 | 23
+    // sign exp frac
+    unsigned sign = (uf >> 31);
+    unsigned exp = (uf << 1) >> (24);
+    unsigned frac = (uf << 9) >> 9;
+    unsigned dt = 1;
+    if (!(uf << 1))
+        return uf;
+    if (exp == 0xFF) /*if(!frac)*/
+        return uf;
+    if (!exp) {
+        if (!(frac >> 22)) {
+            dt--;
+        }
+        frac <<= 1;
+    }
+    return (sign << 31) | ((exp + dt) << 23) | frac;
+}
 /*
  * floatFloat2Int - Return bit-level equivalent of expression (int) f
  *   for floating point argument f.
@@ -338,7 +356,35 @@ unsigned floatScale2(unsigned uf) { return 2; }
  *   Max ops: 30
  *   Rating: 4
  */
-int floatFloat2Int(unsigned uf) { return 2; }
+int floatFloat2Int(unsigned uf) {
+    //   1 | 8 | 23
+    // sign exp frac
+    unsigned sign = (uf >> 31);
+    unsigned exp = (uf << 1) >> (24);
+    unsigned frac = (uf << 9) >> 9;
+    unsigned E = 0, A = 0;
+    if (!(uf << 1) || /*!exp*/ exp < 0x7f)
+        return 0;
+
+    E = exp - 0x7f;
+    A = (1U << 23) | frac;
+    // check overflow
+    // INT_MAX = T32Max = 0b_0111_1111_1111_1111_1111_1111_1111_1111
+    if ((E >= 31 && (!sign || (sign && frac))) || exp == 0xFF) {
+        return 0x80000000u;
+    }
+    if (E >= 23) {
+        A <<= (E - 23);
+    } else {
+        A >>= (23 - E);
+    }
+
+    if (sign) {
+        return ~A + 1;
+    } else {
+        return A;
+    }
+}
 /*
  * floatPower2 - Return bit-level equivalent of the expression 2.0^x
  *   (2.0 raised to the power x) for any 32-bit integer x.
@@ -352,4 +398,41 @@ int floatFloat2Int(unsigned uf) { return 2; }
  *   Max ops: 30
  *   Rating: 4
  */
-unsigned floatPower2(int x) { return 2; }
+unsigned floatPower2(int x) {
+    // (-1)^s * M * 2^{e-bias}
+    // 先试试只用 e-0x7f 表示
+    // exp 8 位无符号整型
+    // 0b11111111(无穷大/Nan) = 2^8-1,
+    // 0b11111110 = 2^8-2 = 254
+    // U8Min = 0(非规格化), 或 1
+    // 规格化数可表示的 2^x x = {e - 127} 取值范围: -126 ~ 127 连续 (保持 M 为 0.0, 即 1.0)
+    // 非规格化数: x < 0, M * 2^{-126}, 2^{-1-126}+2^{-2-126}+2^{-3-126}+...+2^{-23-126}
+    // 取值范围 2^{-149} 到 2^{-127}
+
+    // 等等, 怎么这代码他妈把评测脚本炸掉了 ???
+
+    unsigned exp = 0, s = 0;
+
+    if (x > 127) {
+        return 0x7f800000; //(0xFF << 23);
+    } else if (x >= -126 && x <= 127) {
+        exp = (127 + x);
+        return (exp << 23);
+    }
+    else if (x >= -149 && x < -126) {
+        s = 149 + x;
+        return (1U << s);
+    }
+    /*
+    else if (x >= -149 && x < -126) {
+        // 23 - (-(x + 126)) == 23 + x + 126
+        return (1 << (149 + x));
+    }*/
+    /*
+    else {
+        return 0;
+    }
+    */
+    return 0;
+    // ? ? ?
+}
