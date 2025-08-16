@@ -1,0 +1,22 @@
+[148] ξ make && ./test-trans -M 256 -N 256
+# Generate a handin tar file each time you compile
+tar -cvf amiriox-handin.tar  csim.c trans.c 
+csim.c
+trans.c
+
+Function 0 (2 total)
+Step 1: Validating and generating memory traces
+Step 2: Evaluating performance (s=5, E=1, b=5)
+func 0 (Transpose submission): hits:57345, misses:73732, evictions:73700
+
+Function 1 (2 total)
+Step 1: Validating and generating memory traces
+Step 2: Evaluating performance (s=5, E=1, b=5)
+func 1 (Simple row-wise scan transpose): hits:55553, misses:75524, evictions:75492
+
+Summary for official submission (func 0): correctness=1 misses=73732
+
+TEST_TRANS_RESULTS=1:73732
+
+# 要优化缓存意味着有一个数组的元素访问顺序是缓存不友好的, 是和另一个相反的
+# 所以就有了对角线问题

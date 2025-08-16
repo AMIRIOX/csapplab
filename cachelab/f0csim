@@ -1,0 +1,3207 @@
+S 40040e0,1 miss 
+L 4084120,8 miss 
+L 4084104,4 miss 
+L 4084100,4 hit 
+
+L 4004100,4 miss eviction 
+S 4044100,4 miss eviction 
+L 40041a0,4 miss 
+S 4044104,4 hit 
+L 4004240,4 miss 
+S 4044108,4 hit 
+L 40042e0,4 miss eviction 
+S 404410c,4 hit 
+L 4004380,4 miss 
+S 4044110,4 miss 
+L 4004420,4 miss eviction 
+S 4044114,4 hit 
+L 40044c0,4 miss 
+S 4044118,4 hit 
+L 4004560,4 miss 
+S 404411c,4 hit 
+L 4004104,4 miss eviction 
+S 40441a0,4 miss eviction 
+L 40041a4,4 miss eviction 
+S 40441a4,4 miss eviction 
+L 4004244,4 hit 
+S 40441a8,4 hit 
+L 40042e4,4 hit 
+S 40441ac,4 hit 
+L 4004384,4 hit 
+S 40441b0,4 miss 
+L 4004424,4 hit 
+S 40441b4,4 hit 
+L 40044c4,4 hit 
+S 40441b8,4 hit 
+L 4004564,4 hit 
+S 40441bc,4 hit 
+L 4004108,4 hit 
+S 4044240,4 miss eviction 
+L 40041a8,4 miss eviction 
+S 4044244,4 hit 
+L 4004248,4 miss eviction 
+S 4044248,4 miss eviction 
+L 40042e8,4 hit 
+S 404424c,4 hit 
+L 4004388,4 hit 
+S 4044250,4 miss 
+L 4004428,4 hit 
+S 4044254,4 hit 
+L 40044c8,4 hit 
+S 4044258,4 hit 
+L 4004568,4 hit 
+S 404425c,4 hit 
+L 400410c,4 hit 
+S 40442e0,4 miss eviction 
+L 40041ac,4 hit 
+S 40442e4,4 hit 
+L 400424c,4 miss eviction 
+S 40442e8,4 hit 
+L 40042ec,4 miss eviction 
+S 40442ec,4 miss eviction 
+L 400438c,4 hit 
+S 40442f0,4 miss 
+L 400442c,4 hit 
+S 40442f4,4 hit 
+L 40044cc,4 hit 
+S 40442f8,4 hit 
+L 400456c,4 hit 
+S 40442fc,4 hit 
+L 4004110,4 miss eviction 
+S 4044380,4 miss eviction 
+L 40041b0,4 miss eviction 
+S 4044384,4 hit 
+L 4004250,4 miss eviction 
+S 4044388,4 hit 
+L 40042f0,4 miss eviction 
+S 404438c,4 hit 
+L 4004390,4 miss 
+S 4044390,4 miss eviction 
+L 4004430,4 miss 
+S 4044394,4 hit 
+L 40044d0,4 miss 
+S 4044398,4 hit 
+L 4004570,4 miss 
+S 404439c,4 hit 
+L 4004114,4 hit 
+S 4044420,4 miss eviction 
+L 40041b4,4 hit 
+S 4044424,4 hit 
+L 4004254,4 hit 
+S 4044428,4 hit 
+L 40042f4,4 hit 
+S 404442c,4 hit 
+L 4004394,4 miss eviction 
+S 4044430,4 miss eviction 
+L 4004434,4 miss eviction 
+S 4044434,4 miss eviction 
+L 40044d4,4 hit 
+S 4044438,4 hit 
+L 4004574,4 hit 
+S 404443c,4 hit 
+L 4004118,4 hit 
+S 40444c0,4 miss eviction 
+L 40041b8,4 hit 
+S 40444c4,4 hit 
+L 4004258,4 hit 
+S 40444c8,4 hit 
+L 40042f8,4 hit 
+S 40444cc,4 hit 
+L 4004398,4 hit 
+S 40444d0,4 miss eviction 
+L 4004438,4 miss eviction 
+S 40444d4,4 hit 
+L 40044d8,4 miss eviction 
+S 40444d8,4 miss eviction 
+L 4004578,4 hit 
+S 40444dc,4 hit 
+L 400411c,4 hit 
+S 4044560,4 miss eviction 
+L 40041bc,4 hit 
+S 4044564,4 hit 
+L 400425c,4 hit 
+S 4044568,4 hit 
+L 40042fc,4 hit 
+S 404456c,4 hit 
+L 400439c,4 hit 
+S 4044570,4 miss eviction 
+L 400443c,4 hit 
+S 4044574,4 hit 
+L 40044dc,4 miss eviction 
+S 4044578,4 hit 
+L 400457c,4 miss eviction 
+S 404457c,4 miss eviction 
+L 4004120,4 miss eviction 
+S 4044600,4 miss eviction 
+L 40041c0,4 miss eviction 
+S 4044604,4 hit 
+L 4004260,4 miss eviction 
+S 4044608,4 hit 
+L 4004300,4 miss eviction 
+S 404460c,4 miss eviction 
+L 40043a0,4 miss eviction 
+S 4044610,4 miss eviction 
+L 4004440,4 miss eviction 
+S 4044614,4 hit 
+L 40044e0,4 miss eviction 
+S 4044618,4 hit 
+L 4004580,4 miss eviction 
+S 404461c,4 hit 
+L 4004124,4 hit 
+S 40446a0,4 miss eviction 
+L 40041c4,4 hit 
+S 40446a4,4 hit 
+L 4004264,4 hit 
+S 40446a8,4 hit 
+L 4004304,4 miss eviction 
+S 40446ac,4 hit 
+L 40043a4,4 miss eviction 
+S 40446b0,4 miss eviction 
+L 4004444,4 hit 
+S 40446b4,4 hit 
+L 40044e4,4 hit 
+S 40446b8,4 hit 
+L 4004584,4 hit 
+S 40446bc,4 hit 
+L 4004128,4 hit 
+S 4044740,4 miss eviction 
+L 40041c8,4 hit 
+S 4044744,4 hit 
+L 4004268,4 hit 
+S 4044748,4 hit 
+L 4004308,4 hit 
+S 404474c,4 hit 
+L 40043a8,4 hit 
+S 4044750,4 miss eviction 
+L 4004448,4 miss eviction 
+S 4044754,4 hit 
+L 40044e8,4 hit 
+S 4044758,4 hit 
+L 4004588,4 hit 
+S 404475c,4 hit 
+L 400412c,4 hit 
+S 40447e0,4 miss eviction 
+L 40041cc,4 hit 
+S 40447e4,4 hit 
+L 400426c,4 hit 
+S 40447e8,4 hit 
+L 400430c,4 hit 
+S 40447ec,4 hit 
+L 40043ac,4 hit 
+S 40447f0,4 miss eviction 
+L 400444c,4 hit 
+S 40447f4,4 hit 
+L 40044ec,4 miss eviction 
+S 40447f8,4 hit 
+L 400458c,4 hit 
+S 40447fc,4 hit 
+L 4004130,4 miss eviction 
+S 4044880,4 miss eviction 
+L 40041d0,4 miss eviction 
+S 4044884,4 hit 
+L 4004270,4 miss eviction 
+S 4044888,4 hit 
+L 4004310,4 miss eviction 
+S 404488c,4 hit 
+L 40043b0,4 miss eviction 
+S 4044890,4 miss eviction 
+L 4004450,4 miss eviction 
+S 4044894,4 hit 
+L 40044f0,4 miss eviction 
+S 4044898,4 hit 
+L 4004590,4 miss eviction 
+S 404489c,4 miss eviction 
+L 4004134,4 hit 
+S 4044920,4 miss eviction 
+L 40041d4,4 hit 
+S 4044924,4 hit 
+L 4004274,4 hit 
+S 4044928,4 hit 
+L 4004314,4 hit 
+S 404492c,4 hit 
+L 40043b4,4 hit 
+S 4044930,4 miss eviction 
+L 4004454,4 hit 
+S 4044934,4 hit 
+L 40044f4,4 hit 
+S 4044938,4 hit 
+L 4004594,4 miss eviction 
+S 404493c,4 hit 
+L 4004138,4 miss eviction 
+S 40449c0,4 miss eviction 
+L 40041d8,4 hit 
+S 40449c4,4 hit 
+L 4004278,4 hit 
+S 40449c8,4 hit 
+L 4004318,4 hit 
+S 40449cc,4 hit 
+L 40043b8,4 hit 
+S 40449d0,4 miss eviction 
+L 4004458,4 hit 
+S 40449d4,4 hit 
+L 40044f8,4 hit 
+S 40449d8,4 hit 
+L 4004598,4 hit 
+S 40449dc,4 hit 
+L 400413c,4 hit 
+S 4044a60,4 miss eviction 
+L 40041dc,4 miss eviction 
+S 4044a64,4 hit 
+L 400427c,4 hit 
+S 4044a68,4 hit 
+L 400431c,4 hit 
+S 4044a6c,4 hit 
+L 40043bc,4 hit 
+S 4044a70,4 miss eviction 
+L 400445c,4 hit 
+S 4044a74,4 hit 
+L 40044fc,4 hit 
+S 4044a78,4 hit 
+L 400459c,4 hit 
+S 4044a7c,4 hit 
+L 4004140,4 miss eviction 
+S 4044b00,4 miss eviction 
+L 40041e0,4 miss eviction 
+S 4044b04,4 hit 
+L 4004280,4 miss eviction 
+S 4044b08,4 hit 
+L 4004320,4 miss eviction 
+S 4044b0c,4 hit 
+L 40043c0,4 miss eviction 
+S 4044b10,4 miss eviction 
+L 4004460,4 miss eviction 
+S 4044b14,4 hit 
+L 4004500,4 miss eviction 
+S 4044b18,4 hit 
+L 40045a0,4 miss eviction 
+S 4044b1c,4 hit 
+L 4004144,4 hit 
+S 4044ba0,4 miss eviction 
+L 40041e4,4 hit 
+S 4044ba4,4 hit 
+L 4004284,4 hit 
+S 4044ba8,4 hit 
+L 4004324,4 hit 
+S 4044bac,4 hit 
+L 40043c4,4 hit 
+S 4044bb0,4 miss eviction 
+L 4004464,4 hit 
+S 4044bb4,4 hit 
+L 4004504,4 hit 
+S 4044bb8,4 hit 
+L 40045a4,4 miss eviction 
+S 4044bbc,4 hit 
+L 4004148,4 hit 
+S 4044c40,4 miss eviction 
+L 40041e8,4 hit 
+S 4044c44,4 hit 
+L 4004288,4 hit 
+S 4044c48,4 hit 
+L 4004328,4 hit 
+S 4044c4c,4 hit 
+L 40043c8,4 hit 
+S 4044c50,4 miss eviction 
+L 4004468,4 hit 
+S 4044c54,4 hit 
+L 4004508,4 hit 
+S 4044c58,4 hit 
+L 40045a8,4 hit 
+S 4044c5c,4 hit 
+L 400414c,4 miss eviction 
+S 4044ce0,4 miss eviction 
+L 40041ec,4 miss eviction 
+S 4044ce4,4 miss eviction 
+L 400428c,4 hit 
+S 4044ce8,4 hit 
+L 400432c,4 hit 
+S 4044cec,4 hit 
+L 40043cc,4 hit 
+S 4044cf0,4 miss eviction 
+L 400446c,4 hit 
+S 4044cf4,4 hit 
+L 400450c,4 hit 
+S 4044cf8,4 hit 
+L 40045ac,4 hit 
+S 4044cfc,4 hit 
+L 4004150,4 miss eviction 
+S 4044d80,4 miss eviction 
+L 40041f0,4 miss eviction 
+S 4044d84,4 hit 
+L 4004290,4 miss eviction 
+S 4044d88,4 hit 
+L 4004330,4 miss eviction 
+S 4044d8c,4 hit 
+L 40043d0,4 miss eviction 
+S 4044d90,4 miss eviction 
+L 4004470,4 miss eviction 
+S 4044d94,4 hit 
+L 4004510,4 miss eviction 
+S 4044d98,4 hit 
+L 40045b0,4 miss eviction 
+S 4044d9c,4 hit 
+L 4004154,4 hit 
+S 4044e20,4 miss eviction 
+L 40041f4,4 hit 
+S 4044e24,4 hit 
+L 4004294,4 miss eviction 
+S 4044e28,4 hit 
+L 4004334,4 hit 
+S 4044e2c,4 hit 
+L 40043d4,4 hit 
+S 4044e30,4 miss eviction 
+L 4004474,4 hit 
+S 4044e34,4 hit 
+L 4004514,4 hit 
+S 4044e38,4 hit 
+L 40045b4,4 hit 
+S 4044e3c,4 hit 
+L 4004158,4 hit 
+S 4044ec0,4 miss eviction 
+L 40041f8,4 hit 
+S 4044ec4,4 hit 
+L 4004298,4 hit 
+S 4044ec8,4 hit 
+L 4004338,4 miss eviction 
+S 4044ecc,4 hit 
+L 40043d8,4 hit 
+S 4044ed0,4 miss eviction 
+L 4004478,4 hit 
+S 4044ed4,4 hit 
+L 4004518,4 hit 
+S 4044ed8,4 hit 
+L 40045b8,4 hit 
+S 4044edc,4 hit 
+L 400415c,4 hit 
+S 4044f60,4 miss eviction 
+L 40041fc,4 hit 
+S 4044f64,4 hit 
+L 400429c,4 hit 
+S 4044f68,4 hit 
+L 400433c,4 hit 
+S 4044f6c,4 hit 
+L 40043dc,4 miss eviction 
+S 4044f70,4 miss eviction 
+L 400447c,4 miss eviction 
+S 4044f74,4 miss eviction 
+L 400451c,4 hit 
+S 4044f78,4 hit 
+L 40045bc,4 hit 
+S 4044f7c,4 hit 
+L 4004160,4 miss eviction 
+S 4045000,4 miss eviction 
+L 4004200,4 miss eviction 
+S 4045004,4 miss eviction 
+L 40042a0,4 miss eviction 
+S 4045008,4 hit 
+L 4004340,4 miss eviction 
+S 404500c,4 hit 
+L 40043e0,4 miss eviction 
+S 4045010,4 miss eviction 
+L 4004480,4 miss eviction 
+S 4045014,4 hit 
+L 4004520,4 miss eviction 
+S 4045018,4 hit 
+L 40045c0,4 miss eviction 
+S 404501c,4 hit 
+L 4004164,4 hit 
+S 40450a0,4 miss eviction 
+L 4004204,4 miss eviction 
+S 40450a4,4 hit 
+L 40042a4,4 miss eviction 
+S 40450a8,4 miss eviction 
+L 4004344,4 hit 
+S 40450ac,4 hit 
+L 40043e4,4 hit 
+S 40450b0,4 miss eviction 
+L 4004484,4 hit 
+S 40450b4,4 hit 
+L 4004524,4 hit 
+S 40450b8,4 hit 
+L 40045c4,4 hit 
+S 40450bc,4 hit 
+L 4004168,4 hit 
+S 4045140,4 miss eviction 
+L 4004208,4 hit 
+S 4045144,4 hit 
+L 40042a8,4 miss eviction 
+S 4045148,4 hit 
+L 4004348,4 miss eviction 
+S 404514c,4 miss eviction 
+L 40043e8,4 hit 
+S 4045150,4 miss eviction 
+L 4004488,4 hit 
+S 4045154,4 hit 
+L 4004528,4 hit 
+S 4045158,4 hit 
+L 40045c8,4 hit 
+S 404515c,4 hit 
+L 400416c,4 hit 
+S 40451e0,4 miss eviction 
+L 400420c,4 hit 
+S 40451e4,4 hit 
+L 40042ac,4 hit 
+S 40451e8,4 hit 
+L 400434c,4 miss eviction 
+S 40451ec,4 hit 
+L 40043ec,4 miss eviction 
+S 40451f0,4 miss eviction 
+L 400448c,4 hit 
+S 40451f4,4 hit 
+L 400452c,4 hit 
+S 40451f8,4 hit 
+L 40045cc,4 hit 
+S 40451fc,4 hit 
+L 4004170,4 miss eviction 
+S 4045280,4 miss eviction 
+L 4004210,4 miss eviction 
+S 4045284,4 hit 
+L 40042b0,4 miss eviction 
+S 4045288,4 hit 
+L 4004350,4 miss eviction 
+S 404528c,4 hit 
+L 40043f0,4 miss eviction 
+S 4045290,4 miss eviction 
+L 4004490,4 miss eviction 
+S 4045294,4 miss eviction 
+L 4004530,4 miss eviction 
+S 4045298,4 hit 
+L 40045d0,4 miss eviction 
+S 404529c,4 hit 
+L 4004174,4 hit 
+S 4045320,4 miss eviction 
+L 4004214,4 hit 
+S 4045324,4 hit 
+L 40042b4,4 hit 
+S 4045328,4 hit 
+L 4004354,4 hit 
+S 404532c,4 hit 
+L 40043f4,4 hit 
+S 4045330,4 miss eviction 
+L 4004494,4 miss eviction 
+S 4045334,4 hit 
+L 4004534,4 miss eviction 
+S 4045338,4 miss eviction 
+L 40045d4,4 hit 
+S 404533c,4 hit 
+L 4004178,4 hit 
+S 40453c0,4 miss eviction 
+L 4004218,4 hit 
+S 40453c4,4 hit 
+L 40042b8,4 hit 
+S 40453c8,4 hit 
+L 4004358,4 hit 
+S 40453cc,4 hit 
+L 40043f8,4 hit 
+S 40453d0,4 miss eviction 
+L 4004498,4 hit 
+S 40453d4,4 hit 
+L 4004538,4 miss eviction 
+S 40453d8,4 hit 
+L 40045d8,4 miss eviction 
+S 40453dc,4 miss eviction 
+L 400417c,4 hit 
+S 4045460,4 miss eviction 
+L 400421c,4 hit 
+S 4045464,4 hit 
+L 40042bc,4 hit 
+S 4045468,4 hit 
+L 400435c,4 hit 
+S 404546c,4 hit 
+L 40043fc,4 hit 
+S 4045470,4 miss eviction 
+L 400449c,4 hit 
+S 4045474,4 hit 
+L 400453c,4 hit 
+S 4045478,4 hit 
+L 40045dc,4 miss eviction 
+S 404547c,4 hit 
+L 4004180,4 miss eviction 
+S 4045500,4 miss eviction 
+L 4004220,4 miss eviction 
+S 4045504,4 hit 
+L 40042c0,4 miss eviction 
+S 4045508,4 hit 
+L 4004360,4 miss eviction 
+S 404550c,4 hit 
+L 4004400,4 miss eviction 
+S 4045510,4 miss eviction 
+L 40044a0,4 miss eviction 
+S 4045514,4 hit 
+L 4004540,4 miss eviction 
+S 4045518,4 hit 
+L 40045e0,4 miss eviction 
+S 404551c,4 hit 
+L 4004184,4 hit 
+S 40455a0,4 miss eviction 
+L 4004224,4 hit 
+S 40455a4,4 hit 
+L 40042c4,4 hit 
+S 40455a8,4 hit 
+L 4004364,4 hit 
+S 40455ac,4 hit 
+L 4004404,4 hit 
+S 40455b0,4 miss eviction 
+L 40044a4,4 miss eviction 
+S 40455b4,4 hit 
+L 4004544,4 hit 
+S 40455b8,4 hit 
+L 40045e4,4 hit 
+S 40455bc,4 hit 
+L 4004188,4 hit 
+S 4045640,4 miss eviction 
+L 4004228,4 hit 
+S 4045644,4 hit 
+L 40042c8,4 hit 
+S 4045648,4 hit 
+L 4004368,4 hit 
+S 404564c,4 hit 
+L 4004408,4 hit 
+S 4045650,4 miss eviction 
+L 40044a8,4 hit 
+S 4045654,4 hit 
+L 4004548,4 miss eviction 
+S 4045658,4 hit 
+L 40045e8,4 hit 
+S 404565c,4 hit 
+L 400418c,4 hit 
+S 40456e0,4 miss eviction 
+L 400422c,4 hit 
+S 40456e4,4 hit 
+L 40042cc,4 hit 
+S 40456e8,4 hit 
+L 400436c,4 hit 
+S 40456ec,4 hit 
+L 400440c,4 hit 
+S 40456f0,4 miss eviction 
+L 40044ac,4 hit 
+S 40456f4,4 hit 
+L 400454c,4 hit 
+S 40456f8,4 hit 
+L 40045ec,4 miss eviction 
+S 40456fc,4 hit 
+L 4004190,4 miss eviction 
+S 4045780,4 miss eviction 
+L 4004230,4 miss eviction 
+S 4045784,4 hit 
+L 40042d0,4 miss eviction 
+S 4045788,4 hit 
+L 4004370,4 miss eviction 
+S 404578c,4 hit 
+L 4004410,4 miss eviction 
+S 4045790,4 miss eviction 
+L 40044b0,4 miss eviction 
+S 4045794,4 hit 
+L 4004550,4 miss eviction 
+S 4045798,4 hit 
+L 40045f0,4 miss eviction 
+S 404579c,4 hit 
+L 4004194,4 miss eviction 
+S 4045820,4 miss eviction 
+L 4004234,4 hit 
+S 4045824,4 hit 
+L 40042d4,4 hit 
+S 4045828,4 hit 
+L 4004374,4 hit 
+S 404582c,4 hit 
+L 4004414,4 hit 
+S 4045830,4 miss eviction 
+L 40044b4,4 hit 
+S 4045834,4 hit 
+L 4004554,4 hit 
+S 4045838,4 hit 
+L 40045f4,4 hit 
+S 404583c,4 hit 
+L 4004198,4 hit 
+S 40458c0,4 miss eviction 
+L 4004238,4 miss eviction 
+S 40458c4,4 hit 
+L 40042d8,4 hit 
+S 40458c8,4 hit 
+L 4004378,4 hit 
+S 40458cc,4 hit 
+L 4004418,4 hit 
+S 40458d0,4 miss eviction 
+L 40044b8,4 hit 
+S 40458d4,4 hit 
+L 4004558,4 hit 
+S 40458d8,4 hit 
+L 40045f8,4 hit 
+S 40458dc,4 hit 
+L 400419c,4 hit 
+S 4045960,4 miss eviction 
+L 400423c,4 hit 
+S 4045964,4 hit 
+L 40042dc,4 miss eviction 
+S 4045968,4 hit 
+L 400437c,4 hit 
+S 404596c,4 hit 
+L 400441c,4 hit 
+S 4045970,4 miss eviction 
+L 40044bc,4 hit 
+S 4045974,4 hit 
+L 400455c,4 hit 
+S 4045978,4 hit 
+L 40045fc,4 hit 
+S 404597c,4 hit 
+L 4004600,4 miss eviction 
+S 4044120,4 miss eviction 
+L 40046a0,4 miss eviction 
+S 4044124,4 hit 
+L 4004740,4 miss eviction 
+S 4044128,4 hit 
+L 40047e0,4 miss eviction 
+S 404412c,4 hit 
+L 4004880,4 miss eviction 
+S 4044130,4 miss eviction 
+L 4004920,4 miss eviction 
+S 4044134,4 hit 
+L 40049c0,4 miss eviction 
+S 4044138,4 hit 
+L 4004a60,4 miss eviction 
+S 404413c,4 hit 
+L 4004604,4 hit 
+S 40441c0,4 miss eviction 
+L 40046a4,4 hit 
+S 40441c4,4 hit 
+L 4004744,4 hit 
+S 40441c8,4 hit 
+L 40047e4,4 hit 
+S 40441cc,4 hit 
+L 4004884,4 hit 
+S 40441d0,4 miss eviction 
+L 4004924,4 hit 
+S 40441d4,4 hit 
+L 40049c4,4 miss eviction 
+S 40441d8,4 hit 
+L 4004a64,4 hit 
+S 40441dc,4 hit 
+L 4004608,4 hit 
+S 4044260,4 miss eviction 
+L 40046a8,4 hit 
+S 4044264,4 hit 
+L 4004748,4 hit 
+S 4044268,4 hit 
+L 40047e8,4 hit 
+S 404426c,4 hit 
+L 4004888,4 hit 
+S 4044270,4 miss eviction 
+L 4004928,4 hit 
+S 4044274,4 hit 
+L 40049c8,4 hit 
+S 4044278,4 hit 
+L 4004a68,4 miss eviction 
+S 404427c,4 hit 
+L 400460c,4 hit 
+S 4044300,4 miss eviction 
+L 40046ac,4 hit 
+S 4044304,4 hit 
+L 400474c,4 hit 
+S 4044308,4 hit 
+L 40047ec,4 hit 
+S 404430c,4 hit 
+L 400488c,4 hit 
+S 4044310,4 miss eviction 
+L 400492c,4 hit 
+S 4044314,4 hit 
+L 40049cc,4 hit 
+S 4044318,4 hit 
+L 4004a6c,4 hit 
+S 404431c,4 hit 
+L 4004610,4 miss eviction 
+S 40443a0,4 miss eviction 
+L 40046b0,4 miss eviction 
+S 40443a4,4 hit 
+L 4004750,4 miss eviction 
+S 40443a8,4 hit 
+L 40047f0,4 miss eviction 
+S 40443ac,4 hit 
+L 4004890,4 miss eviction 
+S 40443b0,4 miss eviction 
+L 4004930,4 miss eviction 
+S 40443b4,4 hit 
+L 40049d0,4 miss eviction 
+S 40443b8,4 hit 
+L 4004a70,4 miss eviction 
+S 40443bc,4 hit 
+L 4004614,4 hit 
+S 4044440,4 miss eviction 
+L 40046b4,4 miss eviction 
+S 4044444,4 hit 
+L 4004754,4 hit 
+S 4044448,4 hit 
+L 40047f4,4 hit 
+S 404444c,4 hit 
+L 4004894,4 hit 
+S 4044450,4 miss eviction 
+L 4004934,4 hit 
+S 4044454,4 hit 
+L 40049d4,4 hit 
+S 4044458,4 hit 
+L 4004a74,4 hit 
+S 404445c,4 hit 
+L 4004618,4 hit 
+S 40444e0,4 miss eviction 
+L 40046b8,4 hit 
+S 40444e4,4 hit 
+L 4004758,4 miss eviction 
+S 40444e8,4 hit 
+L 40047f8,4 hit 
+S 40444ec,4 hit 
+L 4004898,4 hit 
+S 40444f0,4 miss eviction 
+L 4004938,4 hit 
+S 40444f4,4 hit 
+L 40049d8,4 hit 
+S 40444f8,4 hit 
+L 4004a78,4 hit 
+S 40444fc,4 hit 
+L 400461c,4 hit 
+S 4044580,4 miss eviction 
+L 40046bc,4 hit 
+S 4044584,4 hit 
+L 400475c,4 hit 
+S 4044588,4 hit 
+L 40047fc,4 miss eviction 
+S 404458c,4 hit 
+L 400489c,4 hit 
+S 4044590,4 miss eviction 
+L 400493c,4 hit 
+S 4044594,4 hit 
+L 40049dc,4 hit 
+S 4044598,4 hit 
+L 4004a7c,4 hit 
+S 404459c,4 hit 
+L 4004620,4 miss eviction 
+S 4044620,4 miss eviction 
+L 40046c0,4 miss eviction 
+S 4044624,4 hit 
+L 4004760,4 miss eviction 
+S 4044628,4 hit 
+L 4004800,4 miss eviction 
+S 404462c,4 hit 
+L 40048a0,4 miss eviction 
+S 4044630,4 miss eviction 
+L 4004940,4 miss eviction 
+S 4044634,4 hit 
+L 40049e0,4 miss eviction 
+S 4044638,4 hit 
+L 4004a80,4 miss eviction 
+S 404463c,4 hit 
+L 4004624,4 miss eviction 
+S 40446c0,4 miss eviction 
+L 40046c4,4 miss eviction 
+S 40446c4,4 miss eviction 
+L 4004764,4 hit 
+S 40446c8,4 hit 
+L 4004804,4 hit 
+S 40446cc,4 hit 
+L 40048a4,4 hit 
+S 40446d0,4 miss eviction 
+L 4004944,4 hit 
+S 40446d4,4 hit 
+L 40049e4,4 hit 
+S 40446d8,4 hit 
+L 4004a84,4 hit 
+S 40446dc,4 hit 
+L 4004628,4 hit 
+S 4044760,4 miss eviction 
+L 40046c8,4 miss eviction 
+S 4044764,4 hit 
+L 4004768,4 miss eviction 
+S 4044768,4 miss eviction 
+L 4004808,4 hit 
+S 404476c,4 hit 
+L 40048a8,4 hit 
+S 4044770,4 miss eviction 
+L 4004948,4 hit 
+S 4044774,4 hit 
+L 40049e8,4 hit 
+S 4044778,4 hit 
+L 4004a88,4 hit 
+S 404477c,4 hit 
+L 400462c,4 hit 
+S 4044800,4 miss eviction 
+L 40046cc,4 hit 
+S 4044804,4 hit 
+L 400476c,4 miss eviction 
+S 4044808,4 hit 
+L 400480c,4 miss eviction 
+S 404480c,4 miss eviction 
+L 40048ac,4 hit 
+S 4044810,4 miss eviction 
+L 400494c,4 hit 
+S 4044814,4 hit 
+L 40049ec,4 hit 
+S 4044818,4 hit 
+L 4004a8c,4 hit 
+S 404481c,4 hit 
+L 4004630,4 miss eviction 
+S 40448a0,4 miss eviction 
+L 40046d0,4 miss eviction 
+S 40448a4,4 hit 
+L 4004770,4 miss eviction 
+S 40448a8,4 hit 
+L 4004810,4 miss eviction 
+S 40448ac,4 hit 
+L 40048b0,4 miss eviction 
+S 40448b0,4 miss eviction 
+L 4004950,4 miss eviction 
+S 40448b4,4 hit 
+L 40049f0,4 miss eviction 
+S 40448b8,4 hit 
+L 4004a90,4 miss eviction 
+S 40448bc,4 hit 
+L 4004634,4 hit 
+S 4044940,4 miss eviction 
+L 40046d4,4 hit 
+S 4044944,4 hit 
+L 4004774,4 hit 
+S 4044948,4 hit 
+L 4004814,4 hit 
+S 404494c,4 hit 
+L 40048b4,4 miss eviction 
+S 4044950,4 miss eviction 
+L 4004954,4 miss eviction 
+S 4044954,4 miss eviction 
+L 40049f4,4 hit 
+S 4044958,4 hit 
+L 4004a94,4 hit 
+S 404495c,4 hit 
+L 4004638,4 hit 
+S 40449e0,4 miss eviction 
+L 40046d8,4 hit 
+S 40449e4,4 hit 
+L 4004778,4 hit 
+S 40449e8,4 hit 
+L 4004818,4 hit 
+S 40449ec,4 hit 
+L 40048b8,4 hit 
+S 40449f0,4 miss eviction 
+L 4004958,4 miss eviction 
+S 40449f4,4 hit 
+L 40049f8,4 miss eviction 
+S 40449f8,4 miss eviction 
+L 4004a98,4 hit 
+S 40449fc,4 hit 
+L 400463c,4 hit 
+S 4044a80,4 miss eviction 
+L 40046dc,4 hit 
+S 4044a84,4 hit 
+L 400477c,4 hit 
+S 4044a88,4 hit 
+L 400481c,4 hit 
+S 4044a8c,4 hit 
+L 40048bc,4 hit 
+S 4044a90,4 miss eviction 
+L 400495c,4 hit 
+S 4044a94,4 hit 
+L 40049fc,4 miss eviction 
+S 4044a98,4 hit 
+L 4004a9c,4 miss eviction 
+S 4044a9c,4 miss eviction 
+L 4004640,4 miss eviction 
+S 4044b20,4 miss eviction 
+L 40046e0,4 miss eviction 
+S 4044b24,4 hit 
+L 4004780,4 miss eviction 
+S 4044b28,4 hit 
+L 4004820,4 miss eviction 
+S 4044b2c,4 miss eviction 
+L 40048c0,4 miss eviction 
+S 4044b30,4 miss eviction 
+L 4004960,4 miss eviction 
+S 4044b34,4 hit 
+L 4004a00,4 miss eviction 
+S 4044b38,4 hit 
+L 4004aa0,4 miss eviction 
+S 4044b3c,4 hit 
+L 4004644,4 hit 
+S 4044bc0,4 miss eviction 
+L 40046e4,4 hit 
+S 4044bc4,4 hit 
+L 4004784,4 hit 
+S 4044bc8,4 hit 
+L 4004824,4 miss eviction 
+S 4044bcc,4 hit 
+L 40048c4,4 miss eviction 
+S 4044bd0,4 miss eviction 
+L 4004964,4 hit 
+S 4044bd4,4 hit 
+L 4004a04,4 hit 
+S 4044bd8,4 hit 
+L 4004aa4,4 hit 
+S 4044bdc,4 hit 
+L 4004648,4 hit 
+S 4044c60,4 miss eviction 
+L 40046e8,4 hit 
+S 4044c64,4 hit 
+L 4004788,4 hit 
+S 4044c68,4 hit 
+L 4004828,4 hit 
+S 4044c6c,4 hit 
+L 40048c8,4 hit 
+S 4044c70,4 miss eviction 
+L 4004968,4 miss eviction 
+S 4044c74,4 hit 
+L 4004a08,4 hit 
+S 4044c78,4 hit 
+L 4004aa8,4 hit 
+S 4044c7c,4 hit 
+L 400464c,4 hit 
+S 4044d00,4 miss eviction 
+L 40046ec,4 hit 
+S 4044d04,4 hit 
+L 400478c,4 hit 
+S 4044d08,4 hit 
+L 400482c,4 hit 
+S 4044d0c,4 hit 
+L 40048cc,4 hit 
+S 4044d10,4 miss eviction 
+L 400496c,4 hit 
+S 4044d14,4 hit 
+L 4004a0c,4 miss eviction 
+S 4044d18,4 hit 
+L 4004aac,4 hit 
+S 4044d1c,4 hit 
+L 4004650,4 miss eviction 
+S 4044da0,4 miss eviction 
+L 40046f0,4 miss eviction 
+S 4044da4,4 hit 
+L 4004790,4 miss eviction 
+S 4044da8,4 hit 
+L 4004830,4 miss eviction 
+S 4044dac,4 hit 
+L 40048d0,4 miss eviction 
+S 4044db0,4 miss eviction 
+L 4004970,4 miss eviction 
+S 4044db4,4 hit 
+L 4004a10,4 miss eviction 
+S 4044db8,4 hit 
+L 4004ab0,4 miss eviction 
+S 4044dbc,4 miss eviction 
+L 4004654,4 hit 
+S 4044e40,4 miss eviction 
+L 40046f4,4 hit 
+S 4044e44,4 hit 
+L 4004794,4 hit 
+S 4044e48,4 hit 
+L 4004834,4 hit 
+S 4044e4c,4 hit 
+L 40048d4,4 hit 
+S 4044e50,4 miss eviction 
+L 4004974,4 hit 
+S 4044e54,4 hit 
+L 4004a14,4 hit 
+S 4044e58,4 hit 
+L 4004ab4,4 miss eviction 
+S 4044e5c,4 hit 
+L 4004658,4 miss eviction 
+S 4044ee0,4 miss eviction 
+L 40046f8,4 hit 
+S 4044ee4,4 hit 
+L 4004798,4 hit 
+S 4044ee8,4 hit 
+L 4004838,4 hit 
+S 4044eec,4 hit 
+L 40048d8,4 hit 
+S 4044ef0,4 miss eviction 
+L 4004978,4 hit 
+S 4044ef4,4 hit 
+L 4004a18,4 hit 
+S 4044ef8,4 hit 
+L 4004ab8,4 hit 
+S 4044efc,4 hit 
+L 400465c,4 hit 
+S 4044f80,4 miss eviction 
+L 40046fc,4 miss eviction 
+S 4044f84,4 hit 
+L 400479c,4 hit 
+S 4044f88,4 hit 
+L 400483c,4 hit 
+S 4044f8c,4 hit 
+L 40048dc,4 hit 
+S 4044f90,4 miss eviction 
+L 400497c,4 hit 
+S 4044f94,4 hit 
+L 4004a1c,4 hit 
+S 4044f98,4 hit 
+L 4004abc,4 hit 
+S 4044f9c,4 hit 
+L 4004660,4 miss eviction 
+S 4045020,4 miss eviction 
+L 4004700,4 miss eviction 
+S 4045024,4 hit 
+L 40047a0,4 miss eviction 
+S 4045028,4 hit 
+L 4004840,4 miss eviction 
+S 404502c,4 hit 
+L 40048e0,4 miss eviction 
+S 4045030,4 miss eviction 
+L 4004980,4 miss eviction 
+S 4045034,4 hit 
+L 4004a20,4 miss eviction 
+S 4045038,4 hit 
+L 4004ac0,4 miss eviction 
+S 404503c,4 hit 
+L 4004664,4 hit 
+S 40450c0,4 miss eviction 
+L 4004704,4 hit 
+S 40450c4,4 hit 
+L 40047a4,4 hit 
+S 40450c8,4 hit 
+L 4004844,4 hit 
+S 40450cc,4 hit 
+L 40048e4,4 hit 
+S 40450d0,4 miss eviction 
+L 4004984,4 hit 
+S 40450d4,4 hit 
+L 4004a24,4 hit 
+S 40450d8,4 hit 
+L 4004ac4,4 miss eviction 
+S 40450dc,4 hit 
+L 4004668,4 hit 
+S 4045160,4 miss eviction 
+L 4004708,4 hit 
+S 4045164,4 hit 
+L 40047a8,4 hit 
+S 4045168,4 hit 
+L 4004848,4 hit 
+S 404516c,4 hit 
+L 40048e8,4 hit 
+S 4045170,4 miss eviction 
+L 4004988,4 hit 
+S 4045174,4 hit 
+L 4004a28,4 hit 
+S 4045178,4 hit 
+L 4004ac8,4 hit 
+S 404517c,4 hit 
+L 400466c,4 miss eviction 
+S 4045200,4 miss eviction 
+L 400470c,4 miss eviction 
+S 4045204,4 miss eviction 
+L 40047ac,4 hit 
+S 4045208,4 hit 
+L 400484c,4 hit 
+S 404520c,4 hit 
+L 40048ec,4 hit 
+S 4045210,4 miss eviction 
+L 400498c,4 hit 
+S 4045214,4 hit 
+L 4004a2c,4 hit 
+S 4045218,4 hit 
+L 4004acc,4 hit 
+S 404521c,4 hit 
+L 4004670,4 miss eviction 
+S 40452a0,4 miss eviction 
+L 4004710,4 miss eviction 
+S 40452a4,4 hit 
+L 40047b0,4 miss eviction 
+S 40452a8,4 hit 
+L 4004850,4 miss eviction 
+S 40452ac,4 hit 
+L 40048f0,4 miss eviction 
+S 40452b0,4 miss eviction 
+L 4004990,4 miss eviction 
+S 40452b4,4 hit 
+L 4004a30,4 miss eviction 
+S 40452b8,4 hit 
+L 4004ad0,4 miss eviction 
+S 40452bc,4 hit 
+L 4004674,4 hit 
+S 4045340,4 miss eviction 
+L 4004714,4 hit 
+S 4045344,4 hit 
+L 40047b4,4 miss eviction 
+S 4045348,4 hit 
+L 4004854,4 hit 
+S 404534c,4 hit 
+L 40048f4,4 hit 
+S 4045350,4 miss eviction 
+L 4004994,4 hit 
+S 4045354,4 hit 
+L 4004a34,4 hit 
+S 4045358,4 hit 
+L 4004ad4,4 hit 
+S 404535c,4 hit 
+L 4004678,4 hit 
+S 40453e0,4 miss eviction 
+L 4004718,4 hit 
+S 40453e4,4 hit 
+L 40047b8,4 hit 
+S 40453e8,4 hit 
+L 4004858,4 miss eviction 
+S 40453ec,4 hit 
+L 40048f8,4 hit 
+S 40453f0,4 miss eviction 
+L 4004998,4 hit 
+S 40453f4,4 hit 
+L 4004a38,4 hit 
+S 40453f8,4 hit 
+L 4004ad8,4 hit 
+S 40453fc,4 hit 
+L 400467c,4 hit 
+S 4045480,4 miss eviction 
+L 400471c,4 hit 
+S 4045484,4 hit 
+L 40047bc,4 hit 
+S 4045488,4 hit 
+L 400485c,4 hit 
+S 404548c,4 hit 
+L 40048fc,4 miss eviction 
+S 4045490,4 miss eviction 
+L 400499c,4 miss eviction 
+S 4045494,4 miss eviction 
+L 4004a3c,4 hit 
+S 4045498,4 hit 
+L 4004adc,4 hit 
+S 404549c,4 hit 
+L 4004680,4 miss eviction 
+S 4045520,4 miss eviction 
+L 4004720,4 miss eviction 
+S 4045524,4 miss eviction 
+L 40047c0,4 miss eviction 
+S 4045528,4 hit 
+L 4004860,4 miss eviction 
+S 404552c,4 hit 
+L 4004900,4 miss eviction 
+S 4045530,4 miss eviction 
+L 40049a0,4 miss eviction 
+S 4045534,4 hit 
+L 4004a40,4 miss eviction 
+S 4045538,4 hit 
+L 4004ae0,4 miss eviction 
+S 404553c,4 hit 
+L 4004684,4 hit 
+S 40455c0,4 miss eviction 
+L 4004724,4 miss eviction 
+S 40455c4,4 hit 
+L 40047c4,4 miss eviction 
+S 40455c8,4 miss eviction 
+L 4004864,4 hit 
+S 40455cc,4 hit 
+L 4004904,4 hit 
+S 40455d0,4 miss eviction 
+L 40049a4,4 hit 
+S 40455d4,4 hit 
+L 4004a44,4 hit 
+S 40455d8,4 hit 
+L 4004ae4,4 hit 
+S 40455dc,4 hit 
+L 4004688,4 hit 
+S 4045660,4 miss eviction 
+L 4004728,4 hit 
+S 4045664,4 hit 
+L 40047c8,4 miss eviction 
+S 4045668,4 hit 
+L 4004868,4 miss eviction 
+S 404566c,4 miss eviction 
+L 4004908,4 hit 
+S 4045670,4 miss eviction 
+L 40049a8,4 hit 
+S 4045674,4 hit 
+L 4004a48,4 hit 
+S 4045678,4 hit 
+L 4004ae8,4 hit 
+S 404567c,4 hit 
+L 400468c,4 hit 
+S 4045700,4 miss eviction 
+L 400472c,4 hit 
+S 4045704,4 hit 
+L 40047cc,4 hit 
+S 4045708,4 hit 
+L 400486c,4 miss eviction 
+S 404570c,4 hit 
+L 400490c,4 miss eviction 
+S 4045710,4 miss eviction 
+L 40049ac,4 hit 
+S 4045714,4 hit 
+L 4004a4c,4 hit 
+S 4045718,4 hit 
+L 4004aec,4 hit 
+S 404571c,4 hit 
+L 4004690,4 miss eviction 
+S 40457a0,4 miss eviction 
+L 4004730,4 miss eviction 
+S 40457a4,4 hit 
+L 40047d0,4 miss eviction 
+S 40457a8,4 hit 
+L 4004870,4 miss eviction 
+S 40457ac,4 hit 
+L 4004910,4 miss eviction 
+S 40457b0,4 miss eviction 
+L 40049b0,4 miss eviction 
+S 40457b4,4 miss eviction 
+L 4004a50,4 miss eviction 
+S 40457b8,4 hit 
+L 4004af0,4 miss eviction 
+S 40457bc,4 hit 
+L 4004694,4 hit 
+S 4045840,4 miss eviction 
+L 4004734,4 hit 
+S 4045844,4 hit 
+L 40047d4,4 hit 
+S 4045848,4 hit 
+L 4004874,4 hit 
+S 404584c,4 hit 
+L 4004914,4 hit 
+S 4045850,4 miss eviction 
+L 40049b4,4 miss eviction 
+S 4045854,4 hit 
+L 4004a54,4 miss eviction 
+S 4045858,4 miss eviction 
+L 4004af4,4 hit 
+S 404585c,4 hit 
+L 4004698,4 hit 
+S 40458e0,4 miss eviction 
+L 4004738,4 hit 
+S 40458e4,4 hit 
+L 40047d8,4 hit 
+S 40458e8,4 hit 
+L 4004878,4 hit 
+S 40458ec,4 hit 
+L 4004918,4 hit 
+S 40458f0,4 miss eviction 
+L 40049b8,4 hit 
+S 40458f4,4 hit 
+L 4004a58,4 miss eviction 
+S 40458f8,4 hit 
+L 4004af8,4 miss eviction 
+S 40458fc,4 miss eviction 
+L 400469c,4 hit 
+S 4045980,4 miss eviction 
+L 400473c,4 hit 
+S 4045984,4 hit 
+L 40047dc,4 hit 
+S 4045988,4 hit 
+L 400487c,4 hit 
+S 404598c,4 hit 
+L 400491c,4 hit 
+S 4045990,4 miss eviction 
+L 40049bc,4 hit 
+S 4045994,4 hit 
+L 4004a5c,4 hit 
+S 4045998,4 hit 
+L 4004afc,4 miss eviction 
+S 404599c,4 hit 
+L 4004b00,4 miss eviction 
+S 4044140,4 miss eviction 
+L 4004ba0,4 miss eviction 
+S 4044144,4 hit 
+L 4004c40,4 miss eviction 
+S 4044148,4 miss eviction 
+L 4004ce0,4 miss eviction 
+S 404414c,4 hit 
+L 4004d80,4 miss eviction 
+S 4044150,4 miss eviction 
+L 4004e20,4 miss eviction 
+S 4044154,4 hit 
+L 4004ec0,4 miss eviction 
+S 4044158,4 hit 
+L 4004f60,4 miss eviction 
+S 404415c,4 hit 
+L 4004b04,4 hit 
+S 40441e0,4 miss eviction 
+L 4004ba4,4 hit 
+S 40441e4,4 hit 
+L 4004c44,4 miss eviction 
+S 40441e8,4 hit 
+L 4004ce4,4 miss eviction 
+S 40441ec,4 miss eviction 
+L 4004d84,4 hit 
+S 40441f0,4 miss eviction 
+L 4004e24,4 hit 
+S 40441f4,4 hit 
+L 4004ec4,4 hit 
+S 40441f8,4 hit 
+L 4004f64,4 hit 
+S 40441fc,4 hit 
+L 4004b08,4 hit 
+S 4044280,4 miss eviction 
+L 4004ba8,4 hit 
+S 4044284,4 hit 
+L 4004c48,4 hit 
+S 4044288,4 hit 
+L 4004ce8,4 miss eviction 
+S 404428c,4 hit 
+L 4004d88,4 miss eviction 
+S 4044290,4 miss eviction 
+L 4004e28,4 hit 
+S 4044294,4 hit 
+L 4004ec8,4 hit 
+S 4044298,4 hit 
+L 4004f68,4 hit 
+S 404429c,4 hit 
+L 4004b0c,4 hit 
+S 4044320,4 miss eviction 
+L 4004bac,4 hit 
+S 4044324,4 hit 
+L 4004c4c,4 hit 
+S 4044328,4 hit 
+L 4004cec,4 hit 
+S 404432c,4 hit 
+L 4004d8c,4 hit 
+S 4044330,4 miss eviction 
+L 4004e2c,4 miss eviction 
+S 4044334,4 hit 
+L 4004ecc,4 hit 
+S 4044338,4 hit 
+L 4004f6c,4 hit 
+S 404433c,4 hit 
+L 4004b10,4 miss eviction 
+S 40443c0,4 miss eviction 
+L 4004bb0,4 miss eviction 
+S 40443c4,4 hit 
+L 4004c50,4 miss eviction 
+S 40443c8,4 hit 
+L 4004cf0,4 miss eviction 
+S 40443cc,4 hit 
+L 4004d90,4 miss eviction 
+S 40443d0,4 miss eviction 
+L 4004e30,4 miss eviction 
+S 40443d4,4 hit 
+L 4004ed0,4 miss eviction 
+S 40443d8,4 miss eviction 
+L 4004f70,4 miss eviction 
+S 40443dc,4 hit 
+L 4004b14,4 hit 
+S 4044460,4 miss eviction 
+L 4004bb4,4 hit 
+S 4044464,4 hit 
+L 4004c54,4 hit 
+S 4044468,4 hit 
+L 4004cf4,4 hit 
+S 404446c,4 hit 
+L 4004d94,4 hit 
+S 4044470,4 miss eviction 
+L 4004e34,4 hit 
+S 4044474,4 hit 
+L 4004ed4,4 miss eviction 
+S 4044478,4 hit 
+L 4004f74,4 miss eviction 
+S 404447c,4 miss eviction 
+L 4004b18,4 hit 
+S 4044500,4 miss eviction 
+L 4004bb8,4 hit 
+S 4044504,4 hit 
+L 4004c58,4 hit 
+S 4044508,4 hit 
+L 4004cf8,4 hit 
+S 404450c,4 hit 
+L 4004d98,4 hit 
+S 4044510,4 miss eviction 
+L 4004e38,4 hit 
+S 4044514,4 hit 
+L 4004ed8,4 hit 
+S 4044518,4 hit 
+L 4004f78,4 miss eviction 
+S 404451c,4 hit 
+L 4004b1c,4 miss eviction 
+S 40445a0,4 miss eviction 
+L 4004bbc,4 hit 
+S 40445a4,4 hit 
+L 4004c5c,4 hit 
+S 40445a8,4 hit 
+L 4004cfc,4 hit 
+S 40445ac,4 hit 
+L 4004d9c,4 hit 
+S 40445b0,4 miss eviction 
+L 4004e3c,4 hit 
+S 40445b4,4 hit 
+L 4004edc,4 hit 
+S 40445b8,4 hit 
+L 4004f7c,4 hit 
+S 40445bc,4 hit 
+L 4004b20,4 miss eviction 
+S 4044640,4 miss eviction 
+L 4004bc0,4 miss eviction 
+S 4044644,4 hit 
+L 4004c60,4 miss eviction 
+S 4044648,4 hit 
+L 4004d00,4 miss eviction 
+S 404464c,4 hit 
+L 4004da0,4 miss eviction 
+S 4044650,4 miss eviction 
+L 4004e40,4 miss eviction 
+S 4044654,4 hit 
+L 4004ee0,4 miss eviction 
+S 4044658,4 hit 
+L 4004f80,4 miss eviction 
+S 404465c,4 hit 
+L 4004b24,4 hit 
+S 40446e0,4 miss eviction 
+L 4004bc4,4 hit 
+S 40446e4,4 hit 
+L 4004c64,4 hit 
+S 40446e8,4 hit 
+L 4004d04,4 hit 
+S 40446ec,4 hit 
+L 4004da4,4 hit 
+S 40446f0,4 miss eviction 
+L 4004e44,4 hit 
+S 40446f4,4 hit 
+L 4004ee4,4 miss eviction 
+S 40446f8,4 hit 
+L 4004f84,4 hit 
+S 40446fc,4 hit 
+L 4004b28,4 hit 
+S 4044780,4 miss eviction 
+L 4004bc8,4 hit 
+S 4044784,4 hit 
+L 4004c68,4 hit 
+S 4044788,4 hit 
+L 4004d08,4 hit 
+S 404478c,4 hit 
+L 4004da8,4 hit 
+S 4044790,4 miss eviction 
+L 4004e48,4 hit 
+S 4044794,4 hit 
+L 4004ee8,4 hit 
+S 4044798,4 hit 
+L 4004f88,4 miss eviction 
+S 404479c,4 hit 
+L 4004b2c,4 hit 
+S 4044820,4 miss eviction 
+L 4004bcc,4 hit 
+S 4044824,4 hit 
+L 4004c6c,4 hit 
+S 4044828,4 hit 
+L 4004d0c,4 hit 
+S 404482c,4 hit 
+L 4004dac,4 hit 
+S 4044830,4 miss eviction 
+L 4004e4c,4 hit 
+S 4044834,4 hit 
+L 4004eec,4 hit 
+S 4044838,4 hit 
+L 4004f8c,4 hit 
+S 404483c,4 hit 
+L 4004b30,4 miss eviction 
+S 40448c0,4 miss eviction 
+L 4004bd0,4 miss eviction 
+S 40448c4,4 hit 
+L 4004c70,4 miss eviction 
+S 40448c8,4 hit 
+L 4004d10,4 miss eviction 
+S 40448cc,4 hit 
+L 4004db0,4 miss eviction 
+S 40448d0,4 miss eviction 
+L 4004e50,4 miss eviction 
+S 40448d4,4 hit 
+L 4004ef0,4 miss eviction 
+S 40448d8,4 hit 
+L 4004f90,4 miss eviction 
+S 40448dc,4 hit 
+L 4004b34,4 hit 
+S 4044960,4 miss eviction 
+L 4004bd4,4 miss eviction 
+S 4044964,4 hit 
+L 4004c74,4 hit 
+S 4044968,4 hit 
+L 4004d14,4 hit 
+S 404496c,4 hit 
+L 4004db4,4 hit 
+S 4044970,4 miss eviction 
+L 4004e54,4 hit 
+S 4044974,4 hit 
+L 4004ef4,4 hit 
+S 4044978,4 hit 
+L 4004f94,4 hit 
+S 404497c,4 hit 
+L 4004b38,4 hit 
+S 4044a00,4 miss eviction 
+L 4004bd8,4 hit 
+S 4044a04,4 hit 
+L 4004c78,4 miss eviction 
+S 4044a08,4 hit 
+L 4004d18,4 hit 
+S 4044a0c,4 hit 
+L 4004db8,4 hit 
+S 4044a10,4 miss eviction 
+L 4004e58,4 hit 
+S 4044a14,4 hit 
+L 4004ef8,4 hit 
+S 4044a18,4 hit 
+L 4004f98,4 hit 
+S 4044a1c,4 hit 
+L 4004b3c,4 hit 
+S 4044aa0,4 miss eviction 
+L 4004bdc,4 hit 
+S 4044aa4,4 hit 
+L 4004c7c,4 hit 
+S 4044aa8,4 hit 
+L 4004d1c,4 miss eviction 
+S 4044aac,4 hit 
+L 4004dbc,4 hit 
+S 4044ab0,4 miss eviction 
+L 4004e5c,4 hit 
+S 4044ab4,4 hit 
+L 4004efc,4 hit 
+S 4044ab8,4 hit 
+L 4004f9c,4 hit 
+S 4044abc,4 hit 
+L 4004b40,4 miss eviction 
+S 4044b40,4 miss eviction 
+L 4004be0,4 miss eviction 
+S 4044b44,4 hit 
+L 4004c80,4 miss eviction 
+S 4044b48,4 hit 
+L 4004d20,4 miss eviction 
+S 4044b4c,4 hit 
+L 4004dc0,4 miss eviction 
+S 4044b50,4 miss eviction 
+L 4004e60,4 miss eviction 
+S 4044b54,4 hit 
+L 4004f00,4 miss eviction 
+S 4044b58,4 hit 
+L 4004fa0,4 miss eviction 
+S 4044b5c,4 hit 
+L 4004b44,4 miss eviction 
+S 4044be0,4 miss eviction 
+L 4004be4,4 miss eviction 
+S 4044be4,4 miss eviction 
+L 4004c84,4 hit 
+S 4044be8,4 hit 
+L 4004d24,4 hit 
+S 4044bec,4 hit 
+L 4004dc4,4 hit 
+S 4044bf0,4 miss eviction 
+L 4004e64,4 hit 
+S 4044bf4,4 hit 
+L 4004f04,4 hit 
+S 4044bf8,4 hit 
+L 4004fa4,4 hit 
+S 4044bfc,4 hit 
+L 4004b48,4 hit 
+S 4044c80,4 miss eviction 
+L 4004be8,4 miss eviction 
+S 4044c84,4 hit 
+L 4004c88,4 miss eviction 
+S 4044c88,4 miss eviction 
+L 4004d28,4 hit 
+S 4044c8c,4 hit 
+L 4004dc8,4 hit 
+S 4044c90,4 miss eviction 
+L 4004e68,4 hit 
+S 4044c94,4 hit 
+L 4004f08,4 hit 
+S 4044c98,4 hit 
+L 4004fa8,4 hit 
+S 4044c9c,4 hit 
+L 4004b4c,4 hit 
+S 4044d20,4 miss eviction 
+L 4004bec,4 hit 
+S 4044d24,4 hit 
+L 4004c8c,4 miss eviction 
+S 4044d28,4 hit 
+L 4004d2c,4 miss eviction 
+S 4044d2c,4 miss eviction 
+L 4004dcc,4 hit 
+S 4044d30,4 miss eviction 
+L 4004e6c,4 hit 
+S 4044d34,4 hit 
+L 4004f0c,4 hit 
+S 4044d38,4 hit 
+L 4004fac,4 hit 
+S 4044d3c,4 hit 
+L 4004b50,4 miss eviction 
+S 4044dc0,4 miss eviction 
+L 4004bf0,4 miss eviction 
+S 4044dc4,4 hit 
+L 4004c90,4 miss eviction 
+S 4044dc8,4 hit 
+L 4004d30,4 miss eviction 
+S 4044dcc,4 hit 
+L 4004dd0,4 miss eviction 
+S 4044dd0,4 miss eviction 
+L 4004e70,4 miss eviction 
+S 4044dd4,4 hit 
+L 4004f10,4 miss eviction 
+S 4044dd8,4 hit 
+L 4004fb0,4 miss eviction 
+S 4044ddc,4 hit 
+L 4004b54,4 hit 
+S 4044e60,4 miss eviction 
+L 4004bf4,4 hit 
+S 4044e64,4 hit 
+L 4004c94,4 hit 
+S 4044e68,4 hit 
+L 4004d34,4 hit 
+S 4044e6c,4 hit 
+L 4004dd4,4 miss eviction 
+S 4044e70,4 miss eviction 
+L 4004e74,4 miss eviction 
+S 4044e74,4 miss eviction 
+L 4004f14,4 hit 
+S 4044e78,4 hit 
+L 4004fb4,4 hit 
+S 4044e7c,4 hit 
+L 4004b58,4 hit 
+S 4044f00,4 miss eviction 
+L 4004bf8,4 hit 
+S 4044f04,4 hit 
+L 4004c98,4 hit 
+S 4044f08,4 hit 
+L 4004d38,4 hit 
+S 4044f0c,4 hit 
+L 4004dd8,4 hit 
+S 4044f10,4 miss eviction 
+L 4004e78,4 miss eviction 
+S 4044f14,4 hit 
+L 4004f18,4 miss eviction 
+S 4044f18,4 miss eviction 
+L 4004fb8,4 hit 
+S 4044f1c,4 hit 
+L 4004b5c,4 hit 
+S 4044fa0,4 miss eviction 
+L 4004bfc,4 hit 
+S 4044fa4,4 hit 
+L 4004c9c,4 hit 
+S 4044fa8,4 hit 
+L 4004d3c,4 hit 
+S 4044fac,4 hit 
+L 4004ddc,4 hit 
+S 4044fb0,4 miss eviction 
+L 4004e7c,4 hit 
+S 4044fb4,4 hit 
+L 4004f1c,4 miss eviction 
+S 4044fb8,4 hit 
+L 4004fbc,4 miss eviction 
+S 4044fbc,4 miss eviction 
+L 4004b60,4 miss eviction 
+S 4045040,4 miss eviction 
+L 4004c00,4 miss eviction 
+S 4045044,4 hit 
+L 4004ca0,4 miss eviction 
+S 4045048,4 hit 
+L 4004d40,4 miss eviction 
+S 404504c,4 miss eviction 
+L 4004de0,4 miss eviction 
+S 4045050,4 miss eviction 
+L 4004e80,4 miss eviction 
+S 4045054,4 hit 
+L 4004f20,4 miss eviction 
+S 4045058,4 hit 
+L 4004fc0,4 miss eviction 
+S 404505c,4 hit 
+L 4004b64,4 hit 
+S 40450e0,4 miss eviction 
+L 4004c04,4 hit 
+S 40450e4,4 hit 
+L 4004ca4,4 hit 
+S 40450e8,4 hit 
+L 4004d44,4 miss eviction 
+S 40450ec,4 hit 
+L 4004de4,4 miss eviction 
+S 40450f0,4 miss eviction 
+L 4004e84,4 hit 
+S 40450f4,4 hit 
+L 4004f24,4 hit 
+S 40450f8,4 hit 
+L 4004fc4,4 hit 
+S 40450fc,4 hit 
+L 4004b68,4 hit 
+S 4045180,4 miss eviction 
+L 4004c08,4 hit 
+S 4045184,4 hit 
+L 4004ca8,4 hit 
+S 4045188,4 hit 
+L 4004d48,4 hit 
+S 404518c,4 hit 
+L 4004de8,4 hit 
+S 4045190,4 miss eviction 
+L 4004e88,4 miss eviction 
+S 4045194,4 hit 
+L 4004f28,4 hit 
+S 4045198,4 hit 
+L 4004fc8,4 hit 
+S 404519c,4 hit 
+L 4004b6c,4 hit 
+S 4045220,4 miss eviction 
+L 4004c0c,4 hit 
+S 4045224,4 hit 
+L 4004cac,4 hit 
+S 4045228,4 hit 
+L 4004d4c,4 hit 
+S 404522c,4 hit 
+L 4004dec,4 hit 
+S 4045230,4 miss eviction 
+L 4004e8c,4 hit 
+S 4045234,4 hit 
+L 4004f2c,4 miss eviction 
+S 4045238,4 hit 
+L 4004fcc,4 hit 
+S 404523c,4 hit 
+L 4004b70,4 miss eviction 
+S 40452c0,4 miss eviction 
+L 4004c10,4 miss eviction 
+S 40452c4,4 hit 
+L 4004cb0,4 miss eviction 
+S 40452c8,4 hit 
+L 4004d50,4 miss eviction 
+S 40452cc,4 hit 
+L 4004df0,4 miss eviction 
+S 40452d0,4 miss eviction 
+L 4004e90,4 miss eviction 
+S 40452d4,4 hit 
+L 4004f30,4 miss eviction 
+S 40452d8,4 hit 
+L 4004fd0,4 miss eviction 
+S 40452dc,4 miss eviction 
+L 4004b74,4 hit 
+S 4045360,4 miss eviction 
+L 4004c14,4 hit 
+S 4045364,4 hit 
+L 4004cb4,4 hit 
+S 4045368,4 hit 
+L 4004d54,4 hit 
+S 404536c,4 hit 
+L 4004df4,4 hit 
+S 4045370,4 miss eviction 
+L 4004e94,4 hit 
+S 4045374,4 hit 
+L 4004f34,4 hit 
+S 4045378,4 hit 
+L 4004fd4,4 miss eviction 
+S 404537c,4 hit 
+L 4004b78,4 miss eviction 
+S 4045400,4 miss eviction 
+L 4004c18,4 hit 
+S 4045404,4 hit 
+L 4004cb8,4 hit 
+S 4045408,4 hit 
+L 4004d58,4 hit 
+S 404540c,4 hit 
+L 4004df8,4 hit 
+S 4045410,4 miss eviction 
+L 4004e98,4 hit 
+S 4045414,4 hit 
+L 4004f38,4 hit 
+S 4045418,4 hit 
+L 4004fd8,4 hit 
+S 404541c,4 hit 
+L 4004b7c,4 hit 
+S 40454a0,4 miss eviction 
+L 4004c1c,4 miss eviction 
+S 40454a4,4 hit 
+L 4004cbc,4 hit 
+S 40454a8,4 hit 
+L 4004d5c,4 hit 
+S 40454ac,4 hit 
+L 4004dfc,4 hit 
+S 40454b0,4 miss eviction 
+L 4004e9c,4 hit 
+S 40454b4,4 hit 
+L 4004f3c,4 hit 
+S 40454b8,4 hit 
+L 4004fdc,4 hit 
+S 40454bc,4 hit 
+L 4004b80,4 miss eviction 
+S 4045540,4 miss eviction 
+L 4004c20,4 miss eviction 
+S 4045544,4 hit 
+L 4004cc0,4 miss eviction 
+S 4045548,4 hit 
+L 4004d60,4 miss eviction 
+S 404554c,4 hit 
+L 4004e00,4 miss eviction 
+S 4045550,4 miss eviction 
+L 4004ea0,4 miss eviction 
+S 4045554,4 hit 
+L 4004f40,4 miss eviction 
+S 4045558,4 hit 
+L 4004fe0,4 miss eviction 
+S 404555c,4 hit 
+L 4004b84,4 hit 
+S 40455e0,4 miss eviction 
+L 4004c24,4 hit 
+S 40455e4,4 hit 
+L 4004cc4,4 hit 
+S 40455e8,4 hit 
+L 4004d64,4 hit 
+S 40455ec,4 hit 
+L 4004e04,4 hit 
+S 40455f0,4 miss eviction 
+L 4004ea4,4 hit 
+S 40455f4,4 hit 
+L 4004f44,4 hit 
+S 40455f8,4 hit 
+L 4004fe4,4 miss eviction 
+S 40455fc,4 hit 
+L 4004b88,4 hit 
+S 4045680,4 miss eviction 
+L 4004c28,4 hit 
+S 4045684,4 hit 
+L 4004cc8,4 hit 
+S 4045688,4 hit 
+L 4004d68,4 hit 
+S 404568c,4 hit 
+L 4004e08,4 hit 
+S 4045690,4 miss eviction 
+L 4004ea8,4 hit 
+S 4045694,4 hit 
+L 4004f48,4 hit 
+S 4045698,4 hit 
+L 4004fe8,4 hit 
+S 404569c,4 hit 
+L 4004b8c,4 miss eviction 
+S 4045720,4 miss eviction 
+L 4004c2c,4 miss eviction 
+S 4045724,4 miss eviction 
+L 4004ccc,4 hit 
+S 4045728,4 hit 
+L 4004d6c,4 hit 
+S 404572c,4 hit 
+L 4004e0c,4 hit 
+S 4045730,4 miss eviction 
+L 4004eac,4 hit 
+S 4045734,4 hit 
+L 4004f4c,4 hit 
+S 4045738,4 hit 
+L 4004fec,4 hit 
+S 404573c,4 hit 
+L 4004b90,4 miss eviction 
+S 40457c0,4 miss eviction 
+L 4004c30,4 miss eviction 
+S 40457c4,4 hit 
+L 4004cd0,4 miss eviction 
+S 40457c8,4 hit 
+L 4004d70,4 miss eviction 
+S 40457cc,4 hit 
+L 4004e10,4 miss eviction 
+S 40457d0,4 miss eviction 
+L 4004eb0,4 miss eviction 
+S 40457d4,4 hit 
+L 4004f50,4 miss eviction 
+S 40457d8,4 hit 
+L 4004ff0,4 miss eviction 
+S 40457dc,4 hit 
+L 4004b94,4 hit 
+S 4045860,4 miss eviction 
+L 4004c34,4 hit 
+S 4045864,4 hit 
+L 4004cd4,4 miss eviction 
+S 4045868,4 hit 
+L 4004d74,4 hit 
+S 404586c,4 hit 
+L 4004e14,4 hit 
+S 4045870,4 miss eviction 
+L 4004eb4,4 hit 
+S 4045874,4 hit 
+L 4004f54,4 hit 
+S 4045878,4 hit 
+L 4004ff4,4 hit 
+S 404587c,4 hit 
+L 4004b98,4 hit 
+S 4045900,4 miss eviction 
+L 4004c38,4 hit 
+S 4045904,4 hit 
+L 4004cd8,4 hit 
+S 4045908,4 hit 
+L 4004d78,4 miss eviction 
+S 404590c,4 hit 
+L 4004e18,4 hit 
+S 4045910,4 miss eviction 
+L 4004eb8,4 hit 
+S 4045914,4 hit 
+L 4004f58,4 hit 
+S 4045918,4 hit 
+L 4004ff8,4 hit 
+S 404591c,4 hit 
+L 4004b9c,4 hit 
+S 40459a0,4 miss eviction 
+L 4004c3c,4 hit 
+S 40459a4,4 hit 
+L 4004cdc,4 hit 
+S 40459a8,4 hit 
+L 4004d7c,4 hit 
+S 40459ac,4 hit 
+L 4004e1c,4 miss eviction 
+S 40459b0,4 miss eviction 
+L 4004ebc,4 miss eviction 
+S 40459b4,4 miss eviction 
+L 4004f5c,4 hit 
+S 40459b8,4 hit 
+L 4004ffc,4 hit 
+S 40459bc,4 hit 
+L 4005000,4 miss eviction 
+S 4044160,4 miss eviction 
+L 40050a0,4 miss eviction 
+S 4044164,4 hit 
+L 4005140,4 miss eviction 
+S 4044168,4 hit 
+L 40051e0,4 miss eviction 
+S 404416c,4 hit 
+L 4005280,4 miss eviction 
+S 4044170,4 miss eviction 
+L 4005320,4 miss eviction 
+S 4044174,4 hit 
+L 40053c0,4 miss eviction 
+S 4044178,4 hit 
+L 4005460,4 miss eviction 
+S 404417c,4 hit 
+L 4005004,4 hit 
+S 4044200,4 miss eviction 
+L 40050a4,4 hit 
+S 4044204,4 hit 
+L 4005144,4 hit 
+S 4044208,4 hit 
+L 40051e4,4 hit 
+S 404420c,4 hit 
+L 4005284,4 hit 
+S 4044210,4 miss eviction 
+L 4005324,4 hit 
+S 4044214,4 hit 
+L 40053c4,4 hit 
+S 4044218,4 hit 
+L 4005464,4 hit 
+S 404421c,4 hit 
+L 4005008,4 miss eviction 
+S 40442a0,4 miss eviction 
+L 40050a8,4 miss eviction 
+S 40442a4,4 miss eviction 
+L 4005148,4 hit 
+S 40442a8,4 hit 
+L 40051e8,4 hit 
+S 40442ac,4 hit 
+L 4005288,4 hit 
+S 40442b0,4 miss eviction 
+L 4005328,4 hit 
+S 40442b4,4 hit 
+L 40053c8,4 hit 
+S 40442b8,4 hit 
+L 4005468,4 hit 
+S 40442bc,4 hit 
+L 400500c,4 hit 
+S 4044340,4 miss eviction 
+L 40050ac,4 miss eviction 
+S 4044344,4 hit 
+L 400514c,4 miss eviction 
+S 4044348,4 miss eviction 
+L 40051ec,4 hit 
+S 404434c,4 hit 
+L 400528c,4 hit 
+S 4044350,4 miss eviction 
+L 400532c,4 hit 
+S 4044354,4 hit 
+L 40053cc,4 hit 
+S 4044358,4 hit 
+L 400546c,4 hit 
+S 404435c,4 hit 
+L 4005010,4 miss eviction 
+S 40443e0,4 miss eviction 
+L 40050b0,4 miss eviction 
+S 40443e4,4 hit 
+L 4005150,4 miss eviction 
+S 40443e8,4 hit 
+L 40051f0,4 miss eviction 
+S 40443ec,4 hit 
+L 4005290,4 miss eviction 
+S 40443f0,4 miss eviction 
+L 4005330,4 miss eviction 
+S 40443f4,4 hit 
+L 40053d0,4 miss eviction 
+S 40443f8,4 hit 
+L 4005470,4 miss eviction 
+S 40443fc,4 hit 
+L 4005014,4 hit 
+S 4044480,4 miss eviction 
+L 40050b4,4 hit 
+S 4044484,4 hit 
+L 4005154,4 hit 
+S 4044488,4 hit 
+L 40051f4,4 miss eviction 
+S 404448c,4 hit 
+L 4005294,4 hit 
+S 4044490,4 miss eviction 
+L 4005334,4 hit 
+S 4044494,4 hit 
+L 40053d4,4 hit 
+S 4044498,4 hit 
+L 4005474,4 hit 
+S 404449c,4 hit 
+L 4005018,4 hit 
+S 4044520,4 miss eviction 
+L 40050b8,4 hit 
+S 4044524,4 hit 
+L 4005158,4 hit 
+S 4044528,4 hit 
+L 40051f8,4 hit 
+S 404452c,4 hit 
+L 4005298,4 miss eviction 
+S 4044530,4 miss eviction 
+L 4005338,4 miss eviction 
+S 4044534,4 miss eviction 
+L 40053d8,4 hit 
+S 4044538,4 hit 
+L 4005478,4 hit 
+S 404453c,4 hit 
+L 400501c,4 hit 
+S 40445c0,4 miss eviction 
+L 40050bc,4 hit 
+S 40445c4,4 hit 
+L 400515c,4 hit 
+S 40445c8,4 hit 
+L 40051fc,4 hit 
+S 40445cc,4 hit 
+L 400529c,4 hit 
+S 40445d0,4 miss eviction 
+L 400533c,4 miss eviction 
+S 40445d4,4 hit 
+L 40053dc,4 miss eviction 
+S 40445d8,4 miss eviction 
+L 400547c,4 hit 
+S 40445dc,4 hit 
+L 4005020,4 miss eviction 
+S 4044660,4 miss eviction 
+L 40050c0,4 miss eviction 
+S 4044664,4 hit 
+L 4005160,4 miss eviction 
+S 4044668,4 miss eviction 
+L 4005200,4 miss eviction 
+S 404466c,4 hit 
+L 40052a0,4 miss eviction 
+S 4044670,4 miss eviction 
+L 4005340,4 miss eviction 
+S 4044674,4 hit 
+L 40053e0,4 miss eviction 
+S 4044678,4 hit 
+L 4005480,4 miss eviction 
+S 404467c,4 hit 
+L 4005024,4 hit 
+S 4044700,4 miss eviction 
+L 40050c4,4 hit 
+S 4044704,4 hit 
+L 4005164,4 miss eviction 
+S 4044708,4 hit 
+L 4005204,4 miss eviction 
+S 404470c,4 miss eviction 
+L 40052a4,4 hit 
+S 4044710,4 miss eviction 
+L 4005344,4 hit 
+S 4044714,4 hit 
+L 40053e4,4 hit 
+S 4044718,4 hit 
+L 4005484,4 hit 
+S 404471c,4 hit 
+L 4005028,4 hit 
+S 40447a0,4 miss eviction 
+L 40050c8,4 hit 
+S 40447a4,4 hit 
+L 4005168,4 hit 
+S 40447a8,4 hit 
+L 4005208,4 miss eviction 
+S 40447ac,4 hit 
+L 40052a8,4 miss eviction 
+S 40447b0,4 miss eviction 
+L 4005348,4 hit 
+S 40447b4,4 hit 
+L 40053e8,4 hit 
+S 40447b8,4 hit 
+L 4005488,4 hit 
+S 40447bc,4 hit 
+L 400502c,4 hit 
+S 4044840,4 miss eviction 
+L 40050cc,4 hit 
+S 4044844,4 hit 
+L 400516c,4 hit 
+S 4044848,4 hit 
+L 400520c,4 hit 
+S 404484c,4 hit 
+L 40052ac,4 hit 
+S 4044850,4 miss eviction 
+L 400534c,4 miss eviction 
+S 4044854,4 hit 
+L 40053ec,4 hit 
+S 4044858,4 hit 
+L 400548c,4 hit 
+S 404485c,4 hit 
+L 4005030,4 miss eviction 
+S 40448e0,4 miss eviction 
+L 40050d0,4 miss eviction 
+S 40448e4,4 hit 
+L 4005170,4 miss eviction 
+S 40448e8,4 hit 
+L 4005210,4 miss eviction 
+S 40448ec,4 hit 
+L 40052b0,4 miss eviction 
+S 40448f0,4 miss eviction 
+L 4005350,4 miss eviction 
+S 40448f4,4 hit 
+L 40053f0,4 miss eviction 
+S 40448f8,4 miss eviction 
+L 4005490,4 miss eviction 
+S 40448fc,4 hit 
+L 4005034,4 hit 
+S 4044980,4 miss eviction 
+L 40050d4,4 hit 
+S 4044984,4 hit 
+L 4005174,4 hit 
+S 4044988,4 hit 
+L 4005214,4 hit 
+S 404498c,4 hit 
+L 40052b4,4 hit 
+S 4044990,4 miss eviction 
+L 4005354,4 hit 
+S 4044994,4 hit 
+L 40053f4,4 miss eviction 
+S 4044998,4 hit 
+L 4005494,4 miss eviction 
+S 404499c,4 miss eviction 
+L 4005038,4 hit 
+S 4044a20,4 miss eviction 
+L 40050d8,4 hit 
+S 4044a24,4 hit 
+L 4005178,4 hit 
+S 4044a28,4 hit 
+L 4005218,4 hit 
+S 4044a2c,4 hit 
+L 40052b8,4 hit 
+S 4044a30,4 miss eviction 
+L 4005358,4 hit 
+S 4044a34,4 hit 
+L 40053f8,4 hit 
+S 4044a38,4 hit 
+L 4005498,4 miss eviction 
+S 4044a3c,4 hit 
+L 400503c,4 miss eviction 
+S 4044ac0,4 miss eviction 
+L 40050dc,4 hit 
+S 4044ac4,4 hit 
+L 400517c,4 hit 
+S 4044ac8,4 hit 
+L 400521c,4 hit 
+S 4044acc,4 hit 
+L 40052bc,4 hit 
+S 4044ad0,4 miss eviction 
+L 400535c,4 hit 
+S 4044ad4,4 hit 
+L 40053fc,4 hit 
+S 4044ad8,4 hit 
+L 400549c,4 hit 
+S 4044adc,4 hit 
+L 4005040,4 miss eviction 
+S 4044b60,4 miss eviction 
+L 40050e0,4 miss eviction 
+S 4044b64,4 hit 
+L 4005180,4 miss eviction 
+S 4044b68,4 hit 
+L 4005220,4 miss eviction 
+S 4044b6c,4 hit 
+L 40052c0,4 miss eviction 
+S 4044b70,4 miss eviction 
+L 4005360,4 miss eviction 
+S 4044b74,4 hit 
+L 4005400,4 miss eviction 
+S 4044b78,4 hit 
+L 40054a0,4 miss eviction 
+S 4044b7c,4 hit 
+L 4005044,4 hit 
+S 4044c00,4 miss eviction 
+L 40050e4,4 hit 
+S 4044c04,4 hit 
+L 4005184,4 hit 
+S 4044c08,4 hit 
+L 4005224,4 hit 
+S 4044c0c,4 hit 
+L 40052c4,4 hit 
+S 4044c10,4 miss eviction 
+L 4005364,4 hit 
+S 4044c14,4 hit 
+L 4005404,4 miss eviction 
+S 4044c18,4 hit 
+L 40054a4,4 hit 
+S 4044c1c,4 hit 
+L 4005048,4 hit 
+S 4044ca0,4 miss eviction 
+L 40050e8,4 hit 
+S 4044ca4,4 hit 
+L 4005188,4 hit 
+S 4044ca8,4 hit 
+L 4005228,4 hit 
+S 4044cac,4 hit 
+L 40052c8,4 hit 
+S 4044cb0,4 miss eviction 
+L 4005368,4 hit 
+S 4044cb4,4 hit 
+L 4005408,4 hit 
+S 4044cb8,4 hit 
+L 40054a8,4 miss eviction 
+S 4044cbc,4 hit 
+L 400504c,4 hit 
+S 4044d40,4 miss eviction 
+L 40050ec,4 hit 
+S 4044d44,4 hit 
+L 400518c,4 hit 
+S 4044d48,4 hit 
+L 400522c,4 hit 
+S 4044d4c,4 hit 
+L 40052cc,4 hit 
+S 4044d50,4 miss eviction 
+L 400536c,4 hit 
+S 4044d54,4 hit 
+L 400540c,4 hit 
+S 4044d58,4 hit 
+L 40054ac,4 hit 
+S 4044d5c,4 hit 
+L 4005050,4 miss eviction 
+S 4044de0,4 miss eviction 
+L 40050f0,4 miss eviction 
+S 4044de4,4 hit 
+L 4005190,4 miss eviction 
+S 4044de8,4 hit 
+L 4005230,4 miss eviction 
+S 4044dec,4 hit 
+L 40052d0,4 miss eviction 
+S 4044df0,4 miss eviction 
+L 4005370,4 miss eviction 
+S 4044df4,4 hit 
+L 4005410,4 miss eviction 
+S 4044df8,4 hit 
+L 40054b0,4 miss eviction 
+S 4044dfc,4 hit 
+L 4005054,4 hit 
+S 4044e80,4 miss eviction 
+L 40050f4,4 miss eviction 
+S 4044e84,4 hit 
+L 4005194,4 hit 
+S 4044e88,4 hit 
+L 4005234,4 hit 
+S 4044e8c,4 hit 
+L 40052d4,4 hit 
+S 4044e90,4 miss eviction 
+L 4005374,4 hit 
+S 4044e94,4 hit 
+L 4005414,4 hit 
+S 4044e98,4 hit 
+L 40054b4,4 hit 
+S 4044e9c,4 hit 
+L 4005058,4 hit 
+S 4044f20,4 miss eviction 
+L 40050f8,4 hit 
+S 4044f24,4 hit 
+L 4005198,4 miss eviction 
+S 4044f28,4 hit 
+L 4005238,4 hit 
+S 4044f2c,4 hit 
+L 40052d8,4 hit 
+S 4044f30,4 miss eviction 
+L 4005378,4 hit 
+S 4044f34,4 hit 
+L 4005418,4 hit 
+S 4044f38,4 hit 
+L 40054b8,4 hit 
+S 4044f3c,4 hit 
+L 400505c,4 hit 
+S 4044fc0,4 miss eviction 
+L 40050fc,4 hit 
+S 4044fc4,4 hit 
+L 400519c,4 hit 
+S 4044fc8,4 hit 
+L 400523c,4 miss eviction 
+S 4044fcc,4 hit 
+L 40052dc,4 hit 
+S 4044fd0,4 miss eviction 
+L 400537c,4 hit 
+S 4044fd4,4 hit 
+L 400541c,4 hit 
+S 4044fd8,4 hit 
+L 40054bc,4 hit 
+S 4044fdc,4 hit 
+L 4005060,4 miss eviction 
+S 4045060,4 miss eviction 
+L 4005100,4 miss eviction 
+S 4045064,4 hit 
+L 40051a0,4 miss eviction 
+S 4045068,4 hit 
+L 4005240,4 miss eviction 
+S 404506c,4 hit 
+L 40052e0,4 miss eviction 
+S 4045070,4 miss eviction 
+L 4005380,4 miss eviction 
+S 4045074,4 hit 
+L 4005420,4 miss eviction 
+S 4045078,4 hit 
+L 40054c0,4 miss eviction 
+S 404507c,4 hit 
+L 4005064,4 miss eviction 
+S 4045100,4 miss eviction 
+L 4005104,4 miss eviction 
+S 4045104,4 miss eviction 
+L 40051a4,4 hit 
+S 4045108,4 hit 
+L 4005244,4 hit 
+S 404510c,4 hit 
+L 40052e4,4 hit 
+S 4045110,4 miss eviction 
+L 4005384,4 hit 
+S 4045114,4 hit 
+L 4005424,4 hit 
+S 4045118,4 hit 
+L 40054c4,4 hit 
+S 404511c,4 hit 
+L 4005068,4 hit 
+S 40451a0,4 miss eviction 
+L 4005108,4 miss eviction 
+S 40451a4,4 hit 
+L 40051a8,4 miss eviction 
+S 40451a8,4 miss eviction 
+L 4005248,4 hit 
+S 40451ac,4 hit 
+L 40052e8,4 hit 
+S 40451b0,4 miss eviction 
+L 4005388,4 hit 
+S 40451b4,4 hit 
+L 4005428,4 hit 
+S 40451b8,4 hit 
+L 40054c8,4 hit 
+S 40451bc,4 hit 
+L 400506c,4 hit 
+S 4045240,4 miss eviction 
+L 400510c,4 hit 
+S 4045244,4 hit 
+L 40051ac,4 miss eviction 
+S 4045248,4 hit 
+L 400524c,4 miss eviction 
+S 404524c,4 miss eviction 
+L 40052ec,4 hit 
+S 4045250,4 miss eviction 
+L 400538c,4 hit 
+S 4045254,4 hit 
+L 400542c,4 hit 
+S 4045258,4 hit 
+L 40054cc,4 hit 
+S 404525c,4 hit 
+L 4005070,4 miss eviction 
+S 40452e0,4 miss eviction 
+L 4005110,4 miss eviction 
+S 40452e4,4 hit 
+L 40051b0,4 miss eviction 
+S 40452e8,4 hit 
+L 4005250,4 miss eviction 
+S 40452ec,4 hit 
+L 40052f0,4 miss eviction 
+S 40452f0,4 miss eviction 
+L 4005390,4 miss eviction 
+S 40452f4,4 hit 
+L 4005430,4 miss eviction 
+S 40452f8,4 hit 
+L 40054d0,4 miss eviction 
+S 40452fc,4 hit 
+L 4005074,4 hit 
+S 4045380,4 miss eviction 
+L 4005114,4 hit 
+S 4045384,4 hit 
+L 40051b4,4 hit 
+S 4045388,4 hit 
+L 4005254,4 hit 
+S 404538c,4 hit 
+L 40052f4,4 miss eviction 
+S 4045390,4 miss eviction 
+L 4005394,4 miss eviction 
+S 4045394,4 miss eviction 
+L 4005434,4 hit 
+S 4045398,4 hit 
+L 40054d4,4 hit 
+S 404539c,4 hit 
+L 4005078,4 hit 
+S 4045420,4 miss eviction 
+L 4005118,4 hit 
+S 4045424,4 hit 
+L 40051b8,4 hit 
+S 4045428,4 hit 
+L 4005258,4 hit 
+S 404542c,4 hit 
+L 40052f8,4 hit 
+S 4045430,4 miss eviction 
+L 4005398,4 miss eviction 
+S 4045434,4 hit 
+L 4005438,4 miss eviction 
+S 4045438,4 miss eviction 
+L 40054d8,4 hit 
+S 404543c,4 hit 
+L 400507c,4 hit 
+S 40454c0,4 miss eviction 
+L 400511c,4 hit 
+S 40454c4,4 hit 
+L 40051bc,4 hit 
+S 40454c8,4 hit 
+L 400525c,4 hit 
+S 40454cc,4 hit 
+L 40052fc,4 hit 
+S 40454d0,4 miss eviction 
+L 400539c,4 hit 
+S 40454d4,4 hit 
+L 400543c,4 miss eviction 
+S 40454d8,4 hit 
+L 40054dc,4 miss eviction 
+S 40454dc,4 miss eviction 
+L 4005080,4 miss eviction 
+S 4045560,4 miss eviction 
+L 4005120,4 miss eviction 
+S 4045564,4 hit 
+L 40051c0,4 miss eviction 
+S 4045568,4 hit 
+L 4005260,4 miss eviction 
+S 404556c,4 miss eviction 
+L 4005300,4 miss eviction 
+S 4045570,4 miss eviction 
+L 40053a0,4 miss eviction 
+S 4045574,4 hit 
+L 4005440,4 miss eviction 
+S 4045578,4 hit 
+L 40054e0,4 miss eviction 
+S 404557c,4 hit 
+L 4005084,4 hit 
+S 4045600,4 miss eviction 
+L 4005124,4 hit 
+S 4045604,4 hit 
+L 40051c4,4 hit 
+S 4045608,4 hit 
+L 4005264,4 miss eviction 
+S 404560c,4 hit 
+L 4005304,4 miss eviction 
+S 4045610,4 miss eviction 
+L 40053a4,4 hit 
+S 4045614,4 hit 
+L 4005444,4 hit 
+S 4045618,4 hit 
+L 40054e4,4 hit 
+S 404561c,4 hit 
+L 4005088,4 hit 
+S 40456a0,4 miss eviction 
+L 4005128,4 hit 
+S 40456a4,4 hit 
+L 40051c8,4 hit 
+S 40456a8,4 hit 
+L 4005268,4 hit 
+S 40456ac,4 hit 
+L 4005308,4 hit 
+S 40456b0,4 miss eviction 
+L 40053a8,4 miss eviction 
+S 40456b4,4 hit 
+L 4005448,4 hit 
+S 40456b8,4 hit 
+L 40054e8,4 hit 
+S 40456bc,4 hit 
+L 400508c,4 hit 
+S 4045740,4 miss eviction 
+L 400512c,4 hit 
+S 4045744,4 hit 
+L 40051cc,4 hit 
+S 4045748,4 hit 
+L 400526c,4 hit 
+S 404574c,4 hit 
+L 400530c,4 hit 
+S 4045750,4 miss eviction 
+L 40053ac,4 hit 
+S 4045754,4 hit 
+L 400544c,4 miss eviction 
+S 4045758,4 hit 
+L 40054ec,4 hit 
+S 404575c,4 hit 
+L 4005090,4 miss eviction 
+S 40457e0,4 miss eviction 
+L 4005130,4 miss eviction 
+S 40457e4,4 hit 
+L 40051d0,4 miss eviction 
+S 40457e8,4 hit 
+L 4005270,4 miss eviction 
+S 40457ec,4 hit 
+L 4005310,4 miss eviction 
+S 40457f0,4 miss eviction 
+L 40053b0,4 miss eviction 
+S 40457f4,4 hit 
+L 4005450,4 miss eviction 
+S 40457f8,4 hit 
+L 40054f0,4 miss eviction 
+S 40457fc,4 miss eviction 
+L 4005094,4 hit 
+S 4045880,4 miss eviction 
+L 4005134,4 hit 
+S 4045884,4 hit 
+L 40051d4,4 hit 
+S 4045888,4 hit 
+L 4005274,4 hit 
+S 404588c,4 hit 
+L 4005314,4 hit 
+S 4045890,4 miss eviction 
+L 40053b4,4 hit 
+S 4045894,4 hit 
+L 4005454,4 hit 
+S 4045898,4 hit 
+L 40054f4,4 miss eviction 
+S 404589c,4 hit 
+L 4005098,4 miss eviction 
+S 4045920,4 miss eviction 
+L 4005138,4 hit 
+S 4045924,4 hit 
+L 40051d8,4 hit 
+S 4045928,4 hit 
+L 4005278,4 hit 
+S 404592c,4 hit 
+L 4005318,4 hit 
+S 4045930,4 miss eviction 
+L 40053b8,4 hit 
+S 4045934,4 hit 
+L 4005458,4 hit 
+S 4045938,4 hit 
+L 40054f8,4 hit 
+S 404593c,4 hit 
+L 400509c,4 hit 
+S 40459c0,4 miss eviction 
+L 400513c,4 miss eviction 
+S 40459c4,4 hit 
+L 40051dc,4 hit 
+S 40459c8,4 hit 
+L 400527c,4 hit 
+S 40459cc,4 hit 
+L 400531c,4 hit 
+S 40459d0,4 miss eviction 
+L 40053bc,4 hit 
+S 40459d4,4 hit 
+L 400545c,4 hit 
+S 40459d8,4 hit 
+L 40054fc,4 hit 
+S 40459dc,4 hit 
+L 4005500,4 miss eviction 
+S 4044180,4 miss eviction 
+L 40055a0,4 miss eviction 
+S 4044184,4 hit 
+L 4005640,4 miss eviction 
+S 4044188,4 hit 
+L 40056e0,4 miss eviction 
+S 404418c,4 hit 
+L 4005780,4 miss eviction 
+S 4044190,4 miss eviction 
+L 4005820,4 miss eviction 
+S 4044194,4 hit 
+L 40058c0,4 miss eviction 
+S 4044198,4 hit 
+L 4005960,4 miss eviction 
+S 404419c,4 hit 
+L 4005504,4 hit 
+S 4044220,4 miss eviction 
+L 40055a4,4 hit 
+S 4044224,4 hit 
+L 4005644,4 hit 
+S 4044228,4 hit 
+L 40056e4,4 hit 
+S 404422c,4 hit 
+L 4005784,4 hit 
+S 4044230,4 miss eviction 
+L 4005824,4 miss eviction 
+S 4044234,4 hit 
+L 40058c4,4 hit 
+S 4044238,4 hit 
+L 4005964,4 hit 
+S 404423c,4 hit 
+L 4005508,4 hit 
+S 40442c0,4 miss eviction 
+L 40055a8,4 hit 
+S 40442c4,4 hit 
+L 4005648,4 hit 
+S 40442c8,4 hit 
+L 40056e8,4 hit 
+S 40442cc,4 hit 
+L 4005788,4 hit 
+S 40442d0,4 miss eviction 
+L 4005828,4 hit 
+S 40442d4,4 hit 
+L 40058c8,4 miss eviction 
+S 40442d8,4 hit 
+L 4005968,4 hit 
+S 40442dc,4 hit 
+L 400550c,4 hit 
+S 4044360,4 miss eviction 
+L 40055ac,4 hit 
+S 4044364,4 hit 
+L 400564c,4 hit 
+S 4044368,4 hit 
+L 40056ec,4 hit 
+S 404436c,4 hit 
+L 400578c,4 hit 
+S 4044370,4 miss eviction 
+L 400582c,4 hit 
+S 4044374,4 hit 
+L 40058cc,4 hit 
+S 4044378,4 hit 
+L 400596c,4 miss eviction 
+S 404437c,4 hit 
+L 4005510,4 miss eviction 
+S 4044400,4 miss eviction 
+L 40055b0,4 miss eviction 
+S 4044404,4 hit 
+L 4005650,4 miss eviction 
+S 4044408,4 hit 
+L 40056f0,4 miss eviction 
+S 404440c,4 hit 
+L 4005790,4 miss eviction 
+S 4044410,4 miss eviction 
+L 4005830,4 miss eviction 
+S 4044414,4 hit 
+L 40058d0,4 miss eviction 
+S 4044418,4 hit 
+L 4005970,4 miss eviction 
+S 404441c,4 hit 
+L 4005514,4 miss eviction 
+S 40444a0,4 miss eviction 
+L 40055b4,4 hit 
+S 40444a4,4 hit 
+L 4005654,4 hit 
+S 40444a8,4 hit 
+L 40056f4,4 hit 
+S 40444ac,4 hit 
+L 4005794,4 hit 
+S 40444b0,4 miss eviction 
+L 4005834,4 hit 
+S 40444b4,4 hit 
+L 40058d4,4 hit 
+S 40444b8,4 hit 
+L 4005974,4 hit 
+S 40444bc,4 hit 
+L 4005518,4 hit 
+S 4044540,4 miss eviction 
+L 40055b8,4 miss eviction 
+S 4044544,4 hit 
+L 4005658,4 hit 
+S 4044548,4 hit 
+L 40056f8,4 hit 
+S 404454c,4 hit 
+L 4005798,4 hit 
+S 4044550,4 miss eviction 
+L 4005838,4 hit 
+S 4044554,4 hit 
+L 40058d8,4 hit 
+S 4044558,4 hit 
+L 4005978,4 hit 
+S 404455c,4 hit 
+L 400551c,4 hit 
+S 40445e0,4 miss eviction 
+L 40055bc,4 hit 
+S 40445e4,4 hit 
+L 400565c,4 miss eviction 
+S 40445e8,4 hit 
+L 40056fc,4 hit 
+S 40445ec,4 hit 
+L 400579c,4 hit 
+S 40445f0,4 miss eviction 
+L 400583c,4 hit 
+S 40445f4,4 hit 
+L 40058dc,4 hit 
+S 40445f8,4 hit 
+L 400597c,4 hit 
+S 40445fc,4 hit 
+L 4005520,4 miss eviction 
+S 4044680,4 miss eviction 
+L 40055c0,4 miss eviction 
+S 4044684,4 hit 
+L 4005660,4 miss eviction 
+S 4044688,4 hit 
+L 4005700,4 miss eviction 
+S 404468c,4 hit 
+L 40057a0,4 miss eviction 
+S 4044690,4 miss eviction 
+L 4005840,4 miss eviction 
+S 4044694,4 hit 
+L 40058e0,4 miss eviction 
+S 4044698,4 hit 
+L 4005980,4 miss eviction 
+S 404469c,4 hit 
+L 4005524,4 hit 
+S 4044720,4 miss eviction 
+L 40055c4,4 hit 
+S 4044724,4 hit 
+L 4005664,4 hit 
+S 4044728,4 hit 
+L 4005704,4 hit 
+S 404472c,4 hit 
+L 40057a4,4 hit 
+S 4044730,4 miss eviction 
+L 4005844,4 hit 
+S 4044734,4 hit 
+L 40058e4,4 hit 
+S 4044738,4 hit 
+L 4005984,4 hit 
+S 404473c,4 hit 
+L 4005528,4 miss eviction 
+S 40447c0,4 miss eviction 
+L 40055c8,4 miss eviction 
+S 40447c4,4 miss eviction 
+L 4005668,4 hit 
+S 40447c8,4 hit 
+L 4005708,4 hit 
+S 40447cc,4 hit 
+L 40057a8,4 hit 
+S 40447d0,4 miss eviction 
+L 4005848,4 hit 
+S 40447d4,4 hit 
+L 40058e8,4 hit 
+S 40447d8,4 hit 
+L 4005988,4 hit 
+S 40447dc,4 hit 
+L 400552c,4 hit 
+S 4044860,4 miss eviction 
+L 40055cc,4 miss eviction 
+S 4044864,4 hit 
+L 400566c,4 miss eviction 
+S 4044868,4 miss eviction 
+L 400570c,4 hit 
+S 404486c,4 hit 
+L 40057ac,4 hit 
+S 4044870,4 miss eviction 
+L 400584c,4 hit 
+S 4044874,4 hit 
+L 40058ec,4 hit 
+S 4044878,4 hit 
+L 400598c,4 hit 
+S 404487c,4 hit 
+L 4005530,4 miss eviction 
+S 4044900,4 miss eviction 
+L 40055d0,4 miss eviction 
+S 4044904,4 hit 
+L 4005670,4 miss eviction 
+S 4044908,4 hit 
+L 4005710,4 miss eviction 
+S 404490c,4 hit 
+L 40057b0,4 miss eviction 
+S 4044910,4 miss eviction 
+L 4005850,4 miss eviction 
+S 4044914,4 hit 
+L 40058f0,4 miss eviction 
+S 4044918,4 hit 
+L 4005990,4 miss eviction 
+S 404491c,4 hit 
+L 4005534,4 hit 
+S 40449a0,4 miss eviction 
+L 40055d4,4 hit 
+S 40449a4,4 hit 
+L 4005674,4 hit 
+S 40449a8,4 hit 
+L 4005714,4 miss eviction 
+S 40449ac,4 hit 
+L 40057b4,4 hit 
+S 40449b0,4 miss eviction 
+L 4005854,4 hit 
+S 40449b4,4 hit 
+L 40058f4,4 hit 
+S 40449b8,4 hit 
+L 4005994,4 hit 
+S 40449bc,4 hit 
+L 4005538,4 hit 
+S 4044a40,4 miss eviction 
+L 40055d8,4 hit 
+S 4044a44,4 hit 
+L 4005678,4 hit 
+S 4044a48,4 hit 
+L 4005718,4 hit 
+S 4044a4c,4 hit 
+L 40057b8,4 miss eviction 
+S 4044a50,4 miss eviction 
+L 4005858,4 miss eviction 
+S 4044a54,4 miss eviction 
+L 40058f8,4 hit 
+S 4044a58,4 hit 
+L 4005998,4 hit 
+S 4044a5c,4 hit 
+L 400553c,4 hit 
+S 4044ae0,4 miss eviction 
+L 40055dc,4 hit 
+S 4044ae4,4 hit 
+L 400567c,4 hit 
+S 4044ae8,4 hit 
+L 400571c,4 hit 
+S 4044aec,4 hit 
+L 40057bc,4 hit 
+S 4044af0,4 miss eviction 
+L 400585c,4 miss eviction 
+S 4044af4,4 hit 
+L 40058fc,4 miss eviction 
+S 4044af8,4 miss eviction 
+L 400599c,4 hit 
+S 4044afc,4 hit 
+L 4005540,4 miss eviction 
+S 4044b80,4 miss eviction 
+L 40055e0,4 miss eviction 
+S 4044b84,4 hit 
+L 4005680,4 miss eviction 
+S 4044b88,4 miss eviction 
+L 4005720,4 miss eviction 
+S 4044b8c,4 hit 
+L 40057c0,4 miss eviction 
+S 4044b90,4 miss eviction 
+L 4005860,4 miss eviction 
+S 4044b94,4 hit 
+L 4005900,4 miss eviction 
+S 4044b98,4 hit 
+L 40059a0,4 miss eviction 
+S 4044b9c,4 hit 
+L 4005544,4 hit 
+S 4044c20,4 miss eviction 
+L 40055e4,4 hit 
+S 4044c24,4 hit 
+L 4005684,4 miss eviction 
+S 4044c28,4 hit 
+L 4005724,4 miss eviction 
+S 4044c2c,4 miss eviction 
+L 40057c4,4 hit 
+S 4044c30,4 miss eviction 
+L 4005864,4 hit 
+S 4044c34,4 hit 
+L 4005904,4 hit 
+S 4044c38,4 hit 
+L 40059a4,4 hit 
+S 4044c3c,4 hit 
+L 4005548,4 hit 
+S 4044cc0,4 miss eviction 
+L 40055e8,4 hit 
+S 4044cc4,4 hit 
+L 4005688,4 hit 
+S 4044cc8,4 hit 
+L 4005728,4 miss eviction 
+S 4044ccc,4 hit 
+L 40057c8,4 miss eviction 
+S 4044cd0,4 miss eviction 
+L 4005868,4 hit 
+S 4044cd4,4 hit 
+L 4005908,4 hit 
+S 4044cd8,4 hit 
+L 40059a8,4 hit 
+S 4044cdc,4 hit 
+L 400554c,4 hit 
+S 4044d60,4 miss eviction 
+L 40055ec,4 hit 
+S 4044d64,4 hit 
+L 400568c,4 hit 
+S 4044d68,4 hit 
+L 400572c,4 hit 
+S 4044d6c,4 hit 
+L 40057cc,4 hit 
+S 4044d70,4 miss eviction 
+L 400586c,4 miss eviction 
+S 4044d74,4 hit 
+L 400590c,4 hit 
+S 4044d78,4 hit 
+L 40059ac,4 hit 
+S 4044d7c,4 hit 
+L 4005550,4 miss eviction 
+S 4044e00,4 miss eviction 
+L 40055f0,4 miss eviction 
+S 4044e04,4 hit 
+L 4005690,4 miss eviction 
+S 4044e08,4 hit 
+L 4005730,4 miss eviction 
+S 4044e0c,4 hit 
+L 40057d0,4 miss eviction 
+S 4044e10,4 miss eviction 
+L 4005870,4 miss eviction 
+S 4044e14,4 hit 
+L 4005910,4 miss eviction 
+S 4044e18,4 miss eviction 
+L 40059b0,4 miss eviction 
+S 4044e1c,4 hit 
+L 4005554,4 hit 
+S 4044ea0,4 miss eviction 
+L 40055f4,4 hit 
+S 4044ea4,4 hit 
+L 4005694,4 hit 
+S 4044ea8,4 hit 
+L 4005734,4 hit 
+S 4044eac,4 hit 
+L 40057d4,4 hit 
+S 4044eb0,4 miss eviction 
+L 4005874,4 hit 
+S 4044eb4,4 hit 
+L 4005914,4 miss eviction 
+S 4044eb8,4 hit 
+L 40059b4,4 miss eviction 
+S 4044ebc,4 miss eviction 
+L 4005558,4 hit 
+S 4044f40,4 miss eviction 
+L 40055f8,4 hit 
+S 4044f44,4 hit 
+L 4005698,4 hit 
+S 4044f48,4 hit 
+L 4005738,4 hit 
+S 4044f4c,4 hit 
+L 40057d8,4 hit 
+S 4044f50,4 miss eviction 
+L 4005878,4 hit 
+S 4044f54,4 hit 
+L 4005918,4 hit 
+S 4044f58,4 hit 
+L 40059b8,4 miss eviction 
+S 4044f5c,4 hit 
+L 400555c,4 miss eviction 
+S 4044fe0,4 miss eviction 
+L 40055fc,4 hit 
+S 4044fe4,4 hit 
+L 400569c,4 hit 
+S 4044fe8,4 hit 
+L 400573c,4 hit 
+S 4044fec,4 hit 
+L 40057dc,4 hit 
+S 4044ff0,4 miss eviction 
+L 400587c,4 hit 
+S 4044ff4,4 hit 
+L 400591c,4 hit 
+S 4044ff8,4 hit 
+L 40059bc,4 hit 
+S 4044ffc,4 hit 
+L 4005560,4 miss eviction 
+S 4045080,4 miss eviction 
+L 4005600,4 miss eviction 
+S 4045084,4 hit 
+L 40056a0,4 miss eviction 
+S 4045088,4 hit 
+L 4005740,4 miss eviction 
+S 404508c,4 hit 
+L 40057e0,4 miss eviction 
+S 4045090,4 miss eviction 
+L 4005880,4 miss eviction 
+S 4045094,4 hit 
+L 4005920,4 miss eviction 
+S 4045098,4 hit 
+L 40059c0,4 miss eviction 
+S 404509c,4 hit 
+L 4005564,4 hit 
+S 4045120,4 miss eviction 
+L 4005604,4 hit 
+S 4045124,4 hit 
+L 40056a4,4 hit 
+S 4045128,4 hit 
+L 4005744,4 hit 
+S 404512c,4 hit 
+L 40057e4,4 hit 
+S 4045130,4 miss eviction 
+L 4005884,4 hit 
+S 4045134,4 hit 
+L 4005924,4 miss eviction 
+S 4045138,4 hit 
+L 40059c4,4 hit 
+S 404513c,4 hit 
+L 4005568,4 hit 
+S 40451c0,4 miss eviction 
+L 4005608,4 hit 
+S 40451c4,4 hit 
+L 40056a8,4 hit 
+S 40451c8,4 hit 
+L 4005748,4 hit 
+S 40451cc,4 hit 
+L 40057e8,4 hit 
+S 40451d0,4 miss eviction 
+L 4005888,4 hit 
+S 40451d4,4 hit 
+L 4005928,4 hit 
+S 40451d8,4 hit 
+L 40059c8,4 miss eviction 
+S 40451dc,4 hit 
+L 400556c,4 hit 
+S 4045260,4 miss eviction 
+L 400560c,4 hit 
+S 4045264,4 hit 
+L 40056ac,4 hit 
+S 4045268,4 hit 
+L 400574c,4 hit 
+S 404526c,4 hit 
+L 40057ec,4 hit 
+S 4045270,4 miss eviction 
+L 400588c,4 hit 
+S 4045274,4 hit 
+L 400592c,4 hit 
+S 4045278,4 hit 
+L 40059cc,4 hit 
+S 404527c,4 hit 
+L 4005570,4 miss eviction 
+S 4045300,4 miss eviction 
+L 4005610,4 miss eviction 
+S 4045304,4 hit 
+L 40056b0,4 miss eviction 
+S 4045308,4 hit 
+L 4005750,4 miss eviction 
+S 404530c,4 hit 
+L 40057f0,4 miss eviction 
+S 4045310,4 miss eviction 
+L 4005890,4 miss eviction 
+S 4045314,4 hit 
+L 4005930,4 miss eviction 
+S 4045318,4 hit 
+L 40059d0,4 miss eviction 
+S 404531c,4 hit 
+L 4005574,4 hit 
+S 40453a0,4 miss eviction 
+L 4005614,4 miss eviction 
+S 40453a4,4 hit 
+L 40056b4,4 hit 
+S 40453a8,4 hit 
+L 4005754,4 hit 
+S 40453ac,4 hit 
+L 40057f4,4 hit 
+S 40453b0,4 miss eviction 
+L 4005894,4 hit 
+S 40453b4,4 hit 
+L 4005934,4 hit 
+S 40453b8,4 hit 
+L 40059d4,4 hit 
+S 40453bc,4 hit 
+L 4005578,4 hit 
+S 4045440,4 miss eviction 
+L 4005618,4 hit 
+S 4045444,4 hit 
+L 40056b8,4 miss eviction 
+S 4045448,4 hit 
+L 4005758,4 hit 
+S 404544c,4 hit 
+L 40057f8,4 hit 
+S 4045450,4 miss eviction 
+L 4005898,4 hit 
+S 4045454,4 hit 
+L 4005938,4 hit 
+S 4045458,4 hit 
+L 40059d8,4 hit 
+S 404545c,4 hit 
+L 400557c,4 hit 
+S 40454e0,4 miss eviction 
+L 400561c,4 hit 
+S 40454e4,4 hit 
+L 40056bc,4 hit 
+S 40454e8,4 hit 
+L 400575c,4 miss eviction 
+S 40454ec,4 hit 
+L 40057fc,4 hit 
+S 40454f0,4 miss eviction 
+L 400589c,4 hit 
+S 40454f4,4 hit 
+L 400593c,4 hit 
+S 40454f8,4 hit 
+L 40059dc,4 hit 
+S 40454fc,4 hit 
+L 4005580,4 miss eviction 
+S 4045580,4 miss eviction 
+L 4005620,4 miss eviction 
+S 4045584,4 hit 
+L 40056c0,4 miss eviction 
+S 4045588,4 hit 
+L 4005760,4 miss eviction 
+S 404558c,4 hit 
+L 4005800,4 miss eviction 
+S 4045590,4 miss eviction 
+L 40058a0,4 miss eviction 
+S 4045594,4 hit 
+L 4005940,4 miss eviction 
+S 4045598,4 hit 
+L 40059e0,4 miss eviction 
+S 404559c,4 hit 
+L 4005584,4 miss eviction 
+S 4045620,4 miss eviction 
+L 4005624,4 miss eviction 
+S 4045624,4 miss eviction 
+L 40056c4,4 hit 
+S 4045628,4 hit 
+L 4005764,4 hit 
+S 404562c,4 hit 
+L 4005804,4 hit 
+S 4045630,4 miss eviction 
+L 40058a4,4 hit 
+S 4045634,4 hit 
+L 4005944,4 hit 
+S 4045638,4 hit 
+L 40059e4,4 hit 
+S 404563c,4 hit 
+L 4005588,4 hit 
+S 40456c0,4 miss eviction 
+L 4005628,4 miss eviction 
+S 40456c4,4 hit 
+L 40056c8,4 miss eviction 
+S 40456c8,4 miss eviction 
+L 4005768,4 hit 
+S 40456cc,4 hit 
+L 4005808,4 hit 
+S 40456d0,4 miss eviction 
+L 40058a8,4 hit 
+S 40456d4,4 hit 
+L 4005948,4 hit 
+S 40456d8,4 hit 
+L 40059e8,4 hit 
+S 40456dc,4 hit 
+L 400558c,4 hit 
+S 4045760,4 miss eviction 
+L 400562c,4 hit 
+S 4045764,4 hit 
+L 40056cc,4 miss eviction 
+S 4045768,4 hit 
+L 400576c,4 miss eviction 
+S 404576c,4 miss eviction 
+L 400580c,4 hit 
+S 4045770,4 miss eviction 
+L 40058ac,4 hit 
+S 4045774,4 hit 
+L 400594c,4 hit 
+S 4045778,4 hit 
+L 40059ec,4 hit 
+S 404577c,4 hit 
+L 4005590,4 miss eviction 
+S 4045800,4 miss eviction 
+L 4005630,4 miss eviction 
+S 4045804,4 hit 
+L 40056d0,4 miss eviction 
+S 4045808,4 hit 
+L 4005770,4 miss eviction 
+S 404580c,4 hit 
+L 4005810,4 miss eviction 
+S 4045810,4 miss eviction 
+L 40058b0,4 miss eviction 
+S 4045814,4 hit 
+L 4005950,4 miss eviction 
+S 4045818,4 hit 
+L 40059f0,4 miss eviction 
+S 404581c,4 hit 
+L 4005594,4 hit 
+S 40458a0,4 miss eviction 
+L 4005634,4 hit 
+S 40458a4,4 hit 
+L 40056d4,4 hit 
+S 40458a8,4 hit 
+L 4005774,4 hit 
+S 40458ac,4 hit 
+L 4005814,4 miss eviction 
+S 40458b0,4 miss eviction 
+L 40058b4,4 miss eviction 
+S 40458b4,4 miss eviction 
+L 4005954,4 hit 
+S 40458b8,4 hit 
+L 40059f4,4 hit 
+S 40458bc,4 hit 
+L 4005598,4 hit 
+S 4045940,4 miss eviction 
+L 4005638,4 hit 
+S 4045944,4 hit 
+L 40056d8,4 hit 
+S 4045948,4 hit 
+L 4005778,4 hit 
+S 404594c,4 hit 
+L 4005818,4 hit 
+S 4045950,4 miss eviction 
+L 40058b8,4 miss eviction 
+S 4045954,4 hit 
+L 4005958,4 miss eviction 
+S 4045958,4 miss eviction 
+L 40059f8,4 hit 
+S 404595c,4 hit 
+L 400559c,4 hit 
+S 40459e0,4 miss eviction 
+L 400563c,4 hit 
+S 40459e4,4 hit 
+L 40056dc,4 hit 
+S 40459e8,4 hit 
+L 400577c,4 hit 
+S 40459ec,4 hit 
+L 400581c,4 hit 
+S 40459f0,4 miss eviction 
+L 40058bc,4 hit 
+S 40459f4,4 hit 
+L 400595c,4 miss eviction 
+S 40459f8,4 hit 
+L 40059fc,4 miss eviction 
+S 40459fc,4 miss eviction 
+S 40040e1,1 miss eviction 
+hits:2117 misses:1088 evictions:1072
