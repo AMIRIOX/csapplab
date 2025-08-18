@@ -7,12 +7,12 @@ Thinking process, solutions & todo:
 ## #1 Data Lab
 
 - [x] 完成
-- [] 博客: CSAPP Data Lab 踏破
+- [x] [CSAPP Data Lab 笔记](https://zheya.cc/2025/08/17/CSAPP-Lab-Data/)
 
 ## #2 Bomb Lab
 
 - [x] 完成
-- [x] [CSAPP Bomb Lab 达成](https://zheya.cc/2024/12/14/CSAPP-Lab-Bomb/)
+- [x] [CSAPP Bomb Lab 笔记](https://zheya.cc/2024/12/14/CSAPP-Lab-Bomb/)
 
 ## #3 Attack Lab
 
@@ -21,9 +21,14 @@ Thinking process, solutions & todo:
 
 ## Buffer Lab
 
+为 Attack Lab 的简单版, 由于已经完成了 Attack Lab, 遂不考虑 Buffer Lab
+
 ## Architecture lab
 
 ## Cache Lab
+
+- [x] 完成
+- [ ] 记录博客
 
 ## Performance Lab
 
