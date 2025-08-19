@@ -28,7 +28,7 @@ Thinking process, solutions & todo:
 ## Cache Lab
 
 - [x] 完成
-- [ ] 记录博客
+- [x] [CSAPP Cache Lab 笔记](https://zheya.cc/2025/08/19/CSAPP-Lab-Cache/) 
 
 ## Performance Lab
 
