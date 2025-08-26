@@ -47,7 +47,7 @@ inline static int min(int a, int b);
 char rotate_descr[] = "rotate: Current working version";
 void rotate(int dim, pixel *src, pixel *dst) {
     int i, j, p, q;
-#define B (32)
+#define B (8)
     // 按 32KB L1-d 计算, sqrt(30000 / 2 / sizeof(unsigned short)) = 50
     // 测试接近的 32, 50, 64 后发现 32 表现最好
 
@@ -98,6 +98,7 @@ void rotate(int dim, pixel *src, pixel *dst) {
             }
         }
     }
+#undef B
 }
 
 /*********************************************************************
@@ -109,8 +110,8 @@ void rotate(int dim, pixel *src, pixel *dst) {
  *********************************************************************/
 
 void register_rotate_functions() {
-    // add_rotate_function(&naive_rotate, naive_rotate_descr);
     add_rotate_function(&rotate, rotate_descr);
+    add_rotate_function(&naive_rotate, naive_rotate_descr);
     /* ... Register additional test functions here */
 }
 
@@ -174,14 +175,42 @@ inline static pixel avg(int dim, int i, int j, pixel *src) {
     pixel_sum sum;
     pixel current_pixel;
 
-    initialize_pixel_sum(&sum);
+    sum.red = sum.green = sum.blue = 0;
+    sum.num = 0;
+
     for (ii = max(i - 1, 0); ii <= min(i + 1, dim - 1); ii++) {
+        //  (ii, j - 1) (ii, j) (ii, j + 1)
+        if (j - 1 >= 0) {
+            pixel p = src[RIDX(ii, j - 1, dim)];
+            sum.red += (int)p.red;
+            sum.green += (int)p.green;
+            sum.blue += (int)p.blue;
+            sum.num++;
+        }
+        pixel p = src[RIDX(ii, j, dim)];
+        sum.red += (int)p.red;
+        sum.green += (int)p.green;
+        sum.blue += (int)p.blue;
+        sum.num++;
+
+        if (j + 1 < dim) {
+            pixel p = src[RIDX(ii, j + 1, dim)];
+            sum.red += (int)p.red;
+            sum.green += (int)p.green;
+            sum.blue += (int)p.blue;
+            sum.num++;
+        }
+        /*
         for (jj = max(j - 1, 0); jj <= min(j + 1, dim - 1); jj++) {
             accumulate_sum(&sum, src[RIDX(ii, jj, dim)]);
         }
+        */
     }
 
-    assign_sum_to_pixel(&current_pixel, sum);
+    current_pixel.red = (unsigned short)(sum.red / sum.num);
+    current_pixel.green = (unsigned short)(sum.green / sum.num);
+    current_pixel.blue = (unsigned short)(sum.blue / sum.num);
+
     return current_pixel;
 }
 
@@ -207,14 +236,56 @@ void naive_smooth(int dim, pixel *src, pixel *dst) {
  */
 char smooth_descr[] = "smooth: Current working version";
 void smooth(int dim, pixel *src, pixel *dst) {
-    int i, j;
+    int i, j, p, q;
+#define B (16)
 
-    for (i = 0; i < dim; i++) {
-        size_t ridx = RIDX(i, 0, dim);
-        for (j = 0; j < dim; j++, ridx++) {
-            dst[ridx] = avg(dim, i, j, src);
+    for (p = 0; p < dim; p += B) {
+        for (q = 0; q < dim; q += B) {
+            for (i = p; i < p + B; i++) {
+                /*
+                for (j = q; j < q + B; j++) {
+                    dst[RIDX(i, j, dim)] = avg(dim, i, j, src);
+                }
+                */
+                dst[RIDX(i, q, dim)] = avg(dim, i, q, src);
+                dst[RIDX(i, q + 1, dim)] = avg(dim, i, q + 1, src);
+                dst[RIDX(i, q + 2, dim)] = avg(dim, i, q + 2, src);
+                dst[RIDX(i, q + 3, dim)] = avg(dim, i, q + 3, src);
+                dst[RIDX(i, q + 4, dim)] = avg(dim, i, q + 4, src);
+                dst[RIDX(i, q + 5, dim)] = avg(dim, i, q + 5, src);
+                dst[RIDX(i, q + 6, dim)] = avg(dim, i, q + 6, src);
+                dst[RIDX(i, q + 7, dim)] = avg(dim, i, q + 7, src);
+                dst[RIDX(i, q + 8, dim)] = avg(dim, i, q + 8, src);
+                dst[RIDX(i, q + 9, dim)] = avg(dim, i, q + 9, src);
+                dst[RIDX(i, q + 10, dim)] = avg(dim, i, q + 10, src);
+                dst[RIDX(i, q + 11, dim)] = avg(dim, i, q + 11, src);
+                dst[RIDX(i, q + 12, dim)] = avg(dim, i, q + 12, src);
+                dst[RIDX(i, q + 13, dim)] = avg(dim, i, q + 13, src);
+                dst[RIDX(i, q + 14, dim)] = avg(dim, i, q + 14, src);
+                dst[RIDX(i, q + 15, dim)] = avg(dim, i, q + 15, src);
+
+                /*
+                dst[RIDX(i, q + 16, dim)] = avg(dim, i, q + 16, src);
+                dst[RIDX(i, q + 17, dim)] = avg(dim, i, q + 17, src);
+                dst[RIDX(i, q + 18, dim)] = avg(dim, i, q + 18, src);
+                dst[RIDX(i, q + 19, dim)] = avg(dim, i, q + 19, src);
+                dst[RIDX(i, q + 20, dim)] = avg(dim, i, q + 20, src);
+                dst[RIDX(i, q + 21, dim)] = avg(dim, i, q + 21, src);
+                dst[RIDX(i, q + 22, dim)] = avg(dim, i, q + 22, src);
+                dst[RIDX(i, q + 23, dim)] = avg(dim, i, q + 23, src);
+                dst[RIDX(i, q + 24, dim)] = avg(dim, i, q + 24, src);
+                dst[RIDX(i, q + 25, dim)] = avg(dim, i, q + 25, src);
+                dst[RIDX(i, q + 26, dim)] = avg(dim, i, q + 26, src);
+                dst[RIDX(i, q + 27, dim)] = avg(dim, i, q + 27, src);
+                dst[RIDX(i, q + 28, dim)] = avg(dim, i, q + 28, src);
+                dst[RIDX(i, q + 29, dim)] = avg(dim, i, q + 29, src);
+                dst[RIDX(i, q + 30, dim)] = avg(dim, i, q + 30, src);
+                dst[RIDX(i, q + 31, dim)] = avg(dim, i, q + 31, src);
+                */
+            }
         }
     }
+#undef B
 }
 
 /*********************************************************************
@@ -227,6 +298,6 @@ void smooth(int dim, pixel *src, pixel *dst) {
 
 void register_smooth_functions() {
     add_smooth_function(&smooth, smooth_descr);
-    // add_smooth_function(&naive_smooth, naive_smooth_descr);
+    add_smooth_function(&naive_smooth, naive_smooth_descr);
     /* ... Register additional test functions here */
 }

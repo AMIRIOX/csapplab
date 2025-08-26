@@ -32,6 +32,10 @@ Thinking process, solutions & todo:
 
 ## Performance Lab
 
+- [x] 完成
+
+(已被 Cache Lab 取代, 做法也比较常规, 故不写博客)
+
 ## Shell Lab
 
 ## Malloc Lab
