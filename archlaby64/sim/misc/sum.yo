@@ -1,0 +1,40 @@
+                            | # must be 0x000 :(
+0x000:                      | .pos 0x000
+0x000:                      | main:
+0x000: 30f40002000000000000 |     irmovq Stack, %rsp
+0x00a: 30f72000000000000000 |     irmovq ele1, %rdi
+0x014: 805000000000000000   |     call sum_list
+0x01d: 00                   |     halt
+                            | 
+                            | # Sample linked list
+0x020:                      | .align 8
+0x020:                      | ele1:
+0x020: 0a00000000000000     |     .quad 0x00a
+0x028: 3000000000000000     |     .quad ele2
+0x030:                      | ele2:
+0x030: b000000000000000     |     .quad 0x0b0
+0x038: 4000000000000000     |     .quad ele3
+                            | 
+0x040:                      | ele3:
+0x040: 000c000000000000     |     .quad 0xc00
+0x048: 0000000000000000     |     .quad 0
+                            | 
+                            | # long sum(list_ptr head)
+0x050:                      | sum_list:
+0x050: 6300                 |     xorq %rax, %rax
+0x052: 6277                 |     andq %rdi, %rdi
+0x054: 737e00000000000000   |     je done
+                            | 
+0x05d:                      | Loop:
+0x05d: 50870000000000000000 |     mrmovq (%rdi), %r8
+0x067: 6080                 |     addq %r8, %rax
+0x069: 50770800000000000000 |     mrmovq 8(%rdi), %rdi
+0x073: 6277                 |     andq %rdi, %rdi
+0x075: 745d00000000000000   |     jne Loop
+                            | 
+0x07e:                      | done:
+0x07e: 90                   |     ret
+                            | 
+0x200:                      | .pos 0x200
+0x200:                      | Stack:
+                            | 

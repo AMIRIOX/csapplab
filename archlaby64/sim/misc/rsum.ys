@@ -1,0 +1,40 @@
+.pos 0x000
+main:
+    irmovq Stack, %rsp
+    irmovq ele1, %rdi
+    call rsum_list
+    halt
+
+# long rsum_list(list_ptr ls)
+rsum_list:
+    andq %rdi, %rdi
+    je done
+    xorq %rax, %rax
+    mrmovq (%rdi), %r8
+    pushq %r8
+    mrmovq 8(%rdi), %rdi
+    call rsum_list
+    popq %r8
+    addq %r8, %rax
+    ret
+
+done:
+    xorq %rax, %rax
+    ret
+
+# Sample linked list
+.align 8
+ele1:
+    .quad 0x00a
+    .quad ele2
+ele2:
+    .quad 0x0b0
+    .quad ele3
+
+ele3:
+    .quad 0xc00
+    .quad 0
+
+.pos 0x200
+Stack:
+
